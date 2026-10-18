@@ -1,0 +1,656 @@
+﻿player_id,player_name,full_name,country,main_position,position_group,is_barca_player
+3042,Mikel Merino,Mikel Merino Zazón,Spain,Left Defensive Midfield,Milieu,0
+5573,Héctor Moreno,Héctor Alfredo Moreno Herrera,Mexico,Left Center Back,Défenseur,0
+6605,Joseba Zaldúa,Joseba Zaldúa Bengoetxea,Spain,Right Back,Défenseur,0
+6669,David Zurutuza,David Zurutuza Veillet,Spain,Left Midfield,Milieu,0
+6671,Asier Illarramendi,Asier Illarramendi Andonegi,Spain,Left Defensive Midfield,Milieu,0
+6676,Igor Zubeldía,Igor Zubeldia Elorza,Spain,Right Center Back,Défenseur,0
+6679,Aritz Elustondo,Aritz Elustondo Irribaria,Spain,Right Center Back,Défenseur,0
+6685,Mikel Oyarzabal,Mikel Oyarzabal Ugarte,Spain,Left Wing,Attaquant,0
+6694,Gero Rulli,Gerónimo Rulli,Argentina,Goalkeeper,Gardien,0
+6695,Juanmi,Juan Miguel Jiménez López,Spain,Left Wing,Attaquant,0
+6704,Theo Hernández,Theo Bernard François Hernández,France,Left Back,Défenseur,0
+6899,Rubén Pardo,Rubén Pardo Gutiérrez,Spain,Left Center Midfield,Milieu,0
+6906,Jon Bautista,Jon Bautista Orgilles,Spain,Left Midfield,Milieu,0
+16210,Luca Sangalli,Luca Sangalli Fuentes,Spain,Left Midfield,Milieu,0
+3501,Philippe Coutinho,Philippe Coutinho Correia,Brazil,Left Wing,Attaquant,1
+5203,Sergio Busquets,Sergio Busquets i Burgos,Spain,Center Defensive Midfield,Milieu,1
+5211,Jordi Alba,Jordi Alba Ramos,Spain,Left Back,Défenseur,1
+5213,Gerard Piqué,Gerard Piqué Bernabéu,Spain,Right Center Back,Défenseur,1
+5246,Luis Suárez,Luis Alberto Suárez Díaz,Uruguay,Center Forward,Attaquant,1
+5470,Ivan Rakitić,Ivan Rakitić,Croatia,Right Center Midfield,Milieu,1
+5477,Ousmane Dembélé,Ousmane Dembélé,France,Left Wing,Attaquant,1
+5492,Samuel Umtiti,Samuel Yves Umtiti,France,Left Center Back,Défenseur,1
+5503,Lionel Messi,Lionel Andrés Messi Cuccittini,Argentina,Right Wing,Attaquant,1
+6374,Nélson Semedo,Nélson Cabral Semedo,Portugal,Right Back,Défenseur,1
+6379,Sergi Roberto,Sergi Roberto Carnicer,Spain,Right Back,Défenseur,1
+6998,Rafinha,Rafael Alcântara do Nascimento,Brazil,Left Center Midfield,Milieu,1
+8206,Arturo Vidal,Arturo Erasmo Vidal Pardo,Chile,Right Center Midfield,Milieu,1
+20055,Marc-André ter Stegen,Marc-André ter Stegen,Germany,Goalkeeper,Gardien,1
+3109,Malcom,Malcom Filipe Silva de Oliveira,Brazil,Left Wing,Attaquant,1
+6332,Thomas Vermaelen,Thomas Vermaelen,Belgium,Left Center Back,Défenseur,1
+6616,Munir El Haddadi,Munir El Haddadi Mohamed,Morocco,Left Wing,Attaquant,1
+3991,Allan Nyom,Allan Romeo Nyom,Cameroon,Right Back,Défenseur,0
+6301,Youssef En-Nesyri,Youssef En-Nesyri,Morocco,Center Forward,Attaquant,0
+6598,Unai Bustinza,Unai Bustinza Martínez,Spain,Center Back,Défenseur,0
+6599,Rubén Pérez,Rubén Salvador Pérez Del Mármol,Spain,Center Defensive Midfield,Milieu,0
+6601,Raúl García,Raúl García Carnero,Spain,Left Back,Défenseur,0
+6608,Nabil El Zhar,Nabil El Zhar,Morocco,Right Center Midfield,Milieu,0
+6610,Pichu,Iván Cuéllar Sacristán,Spain,Goalkeeper,Gardien,0
+6666,Sabin Merino,Sabin Merino Zuloaga,Spain,Right Center Midfield,Milieu,0
+6667,Mikel Vesga,Mikel Vesga Arruti,Spain,Left Defensive Midfield,Milieu,0
+6738,Juanfran,Juan Francisco Moreno Fuertes,Spain,Right Wing Back,Défenseur,0
+6834,Gerard Gumbau,Gerard Gumbau Garriga,Spain,Left Wing,Attaquant,0
+11730,Jonathan Silva,Jonathan Cristian Silva,Argentina,Left Wing Back,Défenseur,0
+16212,Óscar Rodríguez,Óscar Rodríguez Arnaiz,Spain,Right Wing,Attaquant,0
+17818,Rodri Tarín,Rodrigo Tarín Higón,Spain,Center Back,Défenseur,0
+6826,Clément Lenglet,Clément Lenglet,France,Left Center Back,Défenseur,1
+11392,Arthur,Arthur Henrique Ramos de Oliveira Melo,Brazil,Left Center Midfield,Milieu,1
+3610,Roque Mesa,Roque Mesa Quevedo,Spain,Right Center Midfield,Milieu,0
+5218,André Silva,André Miguel Valente Silva,Portugal,Right Center Forward,Attaquant,0
+5504,Éver Banega,Éver Maximiliano David Banega,Argentina,Center Defensive Midfield,Milieu,0
+5534,Simon Kjær,Simon Thorup Kjær,Denmark,Center Back,Défenseur,0
+5742,Gabriel Mercado,Gabriel Iván Mercado,Argentina,Right Back,Défenseur,0
+6334,Luis Muriel,Luis Fernando Muriel Fruto,Colombia,Right Center Forward,Attaquant,0
+6719,Franco Vázquez,Franco Damián Vázquez,Argentina,Left Center Midfield,Milieu,0
+6720,Pablo Sarabia,Pablo Sarabia García,Spain,Center Attacking Midfield,Milieu,0
+6723,Wissam Ben Yedder,Wissam Ben Yedder,France,Center Forward,Attaquant,0
+6804,Sergi Gómez,Sergi Gómez Solà,Spain,Left Center Back,Défenseur,0
+6821,Jesús Navas,Jesús Navas González,Spain,Right Back,Défenseur,0
+6825,Daniel Carriço,Daniel Filipe Martins Carriço,Portugal,Left Center Back,Défenseur,0
+6919,Guilherme Arana,Guilherme Antonio Arana Lopes,Brazil,Left Wing Back,Défenseur,0
+11541,Tomáš Vaclík,Tomáš Vaclík,Czech Republic,Goalkeeper,Gardien,0
+3245,Thomas Lemar,Thomas Lemar,France,Right Midfield,Milieu,0
+5198,Diego Costa,Diego da Silva Costa,Spain,Left Center Forward,Attaquant,0
+5199,Koke,Jorge Resurrección Merodio,Spain,Center Defensive Midfield,Milieu,0
+5484,Lucas Hernandez,Lucas Hernández Pi,France,Left Center Back,Défenseur,0
+5487,Antoine Griezmann,Antoine Griezmann,France,Left Wing,Attaquant,1
+5696,Santiago Arias,Santiago Arias Naranjo,Colombia,Right Back,Défenseur,0
+6320,Filipe Luis,Filipe Luís Kasmirski,Brazil,Left Back,Défenseur,0
+6376,Stefan Savić,Stefan Savić,Montenegro,Right Center Back,Défenseur,0
+6377,Ángel Correa,Ángel Martín Correa,Argentina,Right Center Forward,Attaquant,0
+6378,Jan Oblak,Jan Oblak,Slovenia,Goalkeeper,Gardien,0
+6381,Saúl Ñíguez,Saúl Ñíguez Esclapez,Spain,Left Center Midfield,Milieu,0
+6765,Rodri,Rodrigo Hernández Cascante,Spain,Center Defensive Midfield,Milieu,0
+6841,Vitolo,Víctor Machín Pérez,Spain,Left Midfield,Milieu,0
+3236,Sergi Darder,Sergi Darder Moll,Spain,Right Center Midfield,Milieu,0
+5598,Óscar Duarte,Óscar Esau Duarte Gaitán,Costa Rica,Left Center Back,Défenseur,0
+6754,David López,David López Silva,Spain,Center Defensive Midfield,Milieu,0
+6758,Víctor Sánchez,Víctor Sánchez Mata,Spain,Center Defensive Midfield,Milieu,0
+6761,Léo Baptistão,Leonardo Carrilho Baptistão,Brazil,Right Wing,Attaquant,0
+6767,Sergio García,Sergio García De La Fuente,Spain,Center Attacking Midfield,Milieu,0
+6768,Diego López,Diego López Rodríguez,Spain,Goalkeeper,Gardien,0
+6770,Esteban Granero,Esteban Félix Granero Molina,Spain,Right Center Midfield,Milieu,0
+6791,Javi López,Javier López Rodríguez,Spain,Right Back,Défenseur,0
+6838,Hernán Pérez,Hernán Arsenio Pérez González,Paraguay,Right Wing,Attaquant,0
+6866,Marc Roca,Marc Roca Junqué,Spain,Left Center Midfield,Milieu,0
+6886,Dídac Vilá,Dídac Vilá Rosselló,Spain,Left Back,Défenseur,0
+6902,Óscar Melendo,Óscar Melendo Jiménez,Spain,Center Attacking Midfield,Milieu,0
+11391,Borja Iglesias,Borja Iglesias Quintas,Spain,Center Forward,Attaquant,0
+6609,Denis Suárez,Denis Suárez Fernández,Spain,Left Center Midfield,Milieu,1
+13599,Carles Aleñà,Carles Aleña Castillo,Spain,Left Center Midfield,Milieu,1
+7040,Marko Rog,Marko Rog,Croatia,Left Defensive Midfield,Milieu,0
+8068,Maximilian Wöber,Maximilian Wöber,Austria,Left Back,Défenseur,0
+11332,Ibrahim Amadou,Ibrahim Amadou,France,Center Attacking Midfield,Milieu,0
+13360,Quincy Promes,Quincy Anton Promes,Netherlands,Left Midfield,Milieu,0
+3625,Sofiane Boufal,Sofiane Boufal,Morocco,Left Midfield,Milieu,0
+5217,Iago Aspas,Iago Aspas Juncal,Spain,Right Center Forward,Attaquant,0
+5516,Pione Sisto,Pione Sisto Ifolo Emirmija,Denmark,Left Center Forward,Attaquant,0
+6297,Maxi Gómez,Maximiliano Gómez González,Uruguay,Left Center Forward,Attaquant,0
+6795,Rubén Blanco,Rubén Blanco Veiga,Spain,Goalkeeper,Gardien,0
+6798,Stanislav Lobotka,Stanislav Lobotka,Slovakia,Left Defensive Midfield,Milieu,0
+6799,Brais Méndez,Brais Méndez Portela,Spain,Right Midfield,Milieu,0
+6805,Hugo Mallo,Hugo Mallo Novegil,Spain,Right Wing Back,Défenseur,0
+6852,Jozabed Sánchez,Jozabed Sánchez Ruiz,Spain,Left Defensive Midfield,Milieu,0
+6876,Róbert Mazáň,Róbert Mazáň,Slovakia,Left Back,Défenseur,0
+11388,Néstor Araujo,Néstor Alejandro Araújo Razo,Mexico,Right Center Back,Défenseur,0
+11389,Fran Beltrán,Francisco José Beltrán Peinado,Spain,Center Attacking Midfield,Milieu,0
+12555,Okay Yokuşlu,Okay Yokuşlu,Turkey,Center Defensive Midfield,Milieu,0
+17804,David Costas,David Costas Cordal,Spain,Left Center Back,Défenseur,0
+4546,Dimitri Foulquier,Dimitri Foulquier,Guadeloupe,Right Midfield,Milieu,0
+4712,Samuel Sáiz,Samuel Sáiz Alonso,Spain,Left Midfield,Milieu,0
+6611,Ángel Rodríguez,Ángel Luis Rodríguez Díaz,Spain,Right Center Forward,Attaquant,0
+6619,Vitorino Antunes,Vitorino Gabriel Pacheco Antunes,Portugal,Left Back,Défenseur,0
+6627,Damián Suárez,Damián Nicolás Suárez Suárez,Uruguay,Right Back,Défenseur,0
+6630,Jorge Molina,Jorge Molina Vidal,Spain,Right Center Forward,Attaquant,0
+6634,Djene Dakonam,Djené Dakonam Ortega,Togo,Right Center Back,Défenseur,0
+6635,Leandro Cabrera,Leandro Daniel Cabrera Sasía,Uruguay,Left Center Back,Défenseur,0
+6722,David Soria,David Soria Solís,Spain,Goalkeeper,Gardien,0
+6863,Mauro Arambarri,Mauro Wilney Arambarri Rosa,Uruguay,Left Defensive Midfield,Milieu,0
+6873,Francisco Portillo,Francisco Portillo Soler,Spain,Left Midfield,Milieu,0
+6901,Nemanja Maksimović,Nemanja Maksimović,Serbia,Right Defensive Midfield,Milieu,0
+11550,Jaime Mata,Jaime Mata Arnaiz,Spain,Left Center Forward,Attaquant,0
+18721,Robert Ibáñez,Robert Ibáñez Castro,Spain,Right Midfield,Milieu,0
+8668,Kevin-Prince Boateng,Kevin-Prince Boateng,Ghana,Center Forward,Attaquant,1
+6742,Keko,Sergio Gontán Gallardo,Spain,Center Attacking Midfield,Milieu,0
+6760,Enes Ünal,Enes Ünal,Turkey,Right Center Forward,Attaquant,0
+7699,Daniele Verde,Daniele Verde,Italy,Center Attacking Midfield,Milieu,0
+11291,Toni Suárez,Laureano Antonio Villa Suárez,Spain,Center Attacking Midfield,Milieu,0
+11293,Fernando Calero,Fernando Calero Villa,Spain,Left Center Back,Défenseur,0
+11298,Nacho Martínez,José Ignacio Martínez García,Spain,Left Back,Défenseur,0
+11301,Míchel,Miguel Alfonso Herrero Javaloyas,Spain,Left Center Midfield,Milieu,0
+11302,Jordi Masip,Jordi Masip López,Spain,Goalkeeper,Gardien,0
+11303,Anuar Tuhami,Anuar Mohamed Tuhami,Morocco,Left Defensive Midfield,Milieu,0
+11304,Kiko Olivas,Francisco José Olivas Alba,Spain,Right Center Back,Défenseur,0
+17027,Sergi Guardiola,Sergio Guardiola Navarro,Spain,Right Center Forward,Attaquant,0
+18164,Antoñito,Antonio Jesús Regal Angulo,Spain,Right Wing Back,Défenseur,0
+22020,Joaquín Fernández,Joaquín Fernández Moreno,Spain,Right Center Back,Défenseur,0
+23492,Stiven Plaza,Stiven Ricardo Plaza Castillo,Ecuador,Right Center Forward,Attaquant,0
+3313,Giovani Lo Celso,Giovani Lo Celso,Argentina,Center Attacking Midfield,Milieu,0
+3990,Jesé,Jesé Rodríguez Ruiz,Spain,Left Center Forward,Attaquant,0
+5214,William Carvalho,William Silva de Carvalho,Portugal,Center Defensive Midfield,Milieu,0
+5563,Andrés Guardado,José Andrés Guardado Hernández,Mexico,Left Center Midfield,Milieu,0
+6648,Aïssa Mandi,Aïssa Mandi,Algeria,Right Center Back,Défenseur,0
+6651,Joaquín,Joaquín Sánchez Rodríguez,Spain,Left Center Forward,Attaquant,0
+6658,Cristian Tello,Cristian Tello Herrera,Spain,Left Wing,Attaquant,0
+6673,Sergio Canales,Sergio Canales Madrazo,Spain,Center Attacking Midfield,Milieu,0
+6777,Sidnei,Sidnei Rechel da Silva Júnior,Brazil,Left Center Back,Défenseur,0
+6792,Pau López,Pau López Sabata,Spain,Goalkeeper,Gardien,0
+7068,Marc Bartra,Marc Bartra Aregall,Spain,Center Back,Défenseur,0
+7910,Loren Morón,Lorenzo Jesús Morón García,Spain,Center Forward,Attaquant,0
+22915,Diego Lainez,Diego Lainez Leyva,Mexico,Right Center Forward,Attaquant,0
+23522,Emerson Royal,Emerson Aparecido Leite de Souza Junior,Brazil,Right Back,Défenseur,0
+3023,Yuri Berchiche,Yuri Berchiche Izeta,Spain,Left Back,Défenseur,0
+6389,Mikel San José,Mikel San José Domínguez,Spain,Left Defensive Midfield,Milieu,0
+6390,Markel Susaeta,Markel Susaeta Laskurain,Spain,Right Midfield,Milieu,0
+6391,Raúl García,Raúl García Escudero,Spain,Center Attacking Midfield,Milieu,0
+6393,Iñaki Williams,Iñaki Williams Arthuer,Ghana,Center Forward,Attaquant,0
+6396,Beñat Etxebarria,Beñat Etxebarria Urkiaga,Spain,Left Defensive Midfield,Milieu,0
+6649,De Marcos,Óscar de Marcos Arana,Spain,Right Back,Défenseur,0
+6662,Iago Herrerín,Iago Herrerín Buisán,Spain,Goalkeeper,Gardien,0
+6665,Íñigo Martínez,Íñigo Martínez Berridi,Spain,Left Center Back,Défenseur,0
+6775,Dani García,Daniel García Carrillo,Spain,Right Defensive Midfield,Milieu,0
+6789,Mikel Balenziaga,Mikel Balenziaga Oruesagasti,Spain,Left Back,Défenseur,0
+6842,Iker Muniain,Iker Muniain Goñi,Spain,Left Midfield,Milieu,0
+6877,Yeray Álvarez,Yeray Álvarez López,Spain,Right Center Back,Défenseur,0
+8540,Kenan Kodro,Kenan Kodro,Bosnia and Herzegovina,Center Forward,Attaquant,0
+3508,Sandro Ramírez,Sandro Ramírez Castillo,Spain,Right Center Forward,Attaquant,0
+6713,Diego Llorente,Diego Javier Llorente Ríos,Spain,Left Center Back,Défenseur,0
+6721,Willian José,Willian José da Silva,Brazil,Center Forward,Attaquant,0
+22321,Ander Barrenetxea,Ander Barrenetxea Muguruza,Spain,Left Wing,Attaquant,0
+22452,Ahien Muñoz,Aihen Muñoz Capellán,Spain,Left Back,Défenseur,0
+6566,Borja Bastón,Borja González Tomás,Spain,Center Forward,Attaquant,0
+6581,Jony,Jonathan Rodríguez Menéndez,Spain,Left Midfield,Milieu,0
+6612,Rubén Duarte,Rubén Duarte Sánchez,Spain,Left Back,Défenseur,0
+6613,Rubén Sobrino,Rubén Sobrino Pozuelo,Spain,Center Forward,Attaquant,0
+6615,Víctor Laguardia,Víctor Laguardia Cisneros,Spain,Right Center Back,Défenseur,0
+6617,Ibai Gómez,Ibai Gómez Pérez,Spain,Right Midfield,Milieu,0
+6618,Martín Aguirregabiria,Martín Aguirregabiria Padilla,Spain,Right Back,Défenseur,0
+6624,Burgui,Jorge Franco Alviz,Spain,Left Center Forward,Attaquant,0
+6626,Mubarak Wakaso,Mubarak Wakaso,Ghana,Right Center Midfield,Milieu,0
+6629,Fernando Pacheco,Fernando Pacheco Flores,Spain,Goalkeeper,Gardien,0
+6632,Manu García,Manuel Alejandro García Sánchez,Spain,Left Center Midfield,Milieu,0
+6839,Dani Torres,Daniel Alejandro Torres Rojas,Colombia,Center Defensive Midfield,Milieu,0
+6855,Guillermo Maripán,Guillermo Alfonso Maripán Loaysa,Chile,Left Center Back,Défenseur,0
+6935,Adrián Marín,Adrián Marín Gómez,Spain,Left Back,Défenseur,0
+3437,Francis Joseph Coquelin,Francis Joseph Coquelin,France,Right Center Midfield,Milieu,0
+5186,Denis Cheryshev,Denis Cheryshev,Russia,Left Midfield,Milieu,0
+5718,Rodrigo,Rodrigo Moreno Machado,Spain,Right Center Forward,Attaquant,0
+6401,Kévin Gameiro,Kevin Gameiro,France,Left Center Forward,Attaquant,0
+6587,Toni Lato,Antonio Latorre Grueso,Spain,Left Back,Défenseur,0
+6589,Geoffrey Kondogbia,Geoffrey Kondogbia,Central African Republic,Left Center Midfield,Milieu,0
+6590,Neto,Norberto Murara Neto,Brazil,Goalkeeper,Gardien,1
+6594,Santi Mina,Santiago Mina Lorenzo,Spain,Center Forward,Attaquant,0
+6595,Dani Parejo,Daniel Parejo Muñoz,Spain,Left Center Midfield,Milieu,0
+6746,Gabriel Paulista,Gabriel Armando de Abreu,Brazil,Left Center Back,Défenseur,0
+6748,Ferrán Torres,Ferrán Torres García,Spain,Left Midfield,Milieu,0
+6797,Daniel Wass,Daniel Wass,Denmark,Right Back,Défenseur,0
+6891,Ezequiel Garay,Ezequiel Marcelo Garay,Argentina,Right Center Back,Défenseur,0
+11634,Cristiano Piccini,Cristiano Piccini,Italy,Right Back,Défenseur,0
+4447,Martin Braithwaite,Martin Braithwaite Christensen,Denmark,Center Forward,Attaquant,1
+5830,Kenneth Omeruo,Kenneth Josiah Omeruo,Nigeria,Center Back,Défenseur,0
+6580,Recio,José Luis García del Pozo,Spain,Center Defensive Midfield,Milieu,0
+6603,Dimitrios Siovas,Dimitrios Siovas,Greece,Left Center Back,Défenseur,0
+6606,Javi Eraso,Javier Eraso Goñi,Spain,Left Center Midfield,Milieu,0
+11745,Michael Santos,Michael Nicolás Santos Rosadilla,Uruguay,Left Center Forward,Attaquant,0
+3477,Álvaro Morata,Álvaro Borja Morata Martín,Spain,Left Center Forward,Attaquant,0
+5249,Diego Godín,Diego Roberto Godín Leal,Uruguay,Left Center Back,Défenseur,0
+5259,José Giménez,José María Giménez de Vargas,Uruguay,Right Center Back,Défenseur,0
+6375,Juanfran,Juan Francisco Torres Belén,Spain,Center Defensive Midfield,Milieu,0
+6383,Thomas Partey,Thomas Teye Partey,Ghana,Left Center Midfield,Milieu,0
+5687,Takashi Inui,Takashi Inui,Japan,Left Wing,Attaquant,0
+6657,Sergio León,Sergio León Limones,Spain,Center Forward,Attaquant,0
+17304,Junior Firpo,Héctor Junior Firpo Adames,Spain,Left Back,Défenseur,1
+6592,Rúben Vezo,Rúben Miguel Nunes Vezo,Portugal,Left Center Back,Défenseur,0
+6668,José Luis Morales,José Luis Morales Nogales,Spain,Left Center Forward,Attaquant,0
+6672,Coke,Jorge Andújar Moreno,Spain,Right Back,Défenseur,0
+6675,Antonio Luna,Antonio Manuel Luna Rodríguez,Spain,Left Back,Défenseur,0
+6680,Rubén Rochina,Rubén Rochina Naixes,Spain,Right Midfield,Milieu,0
+6684,Roger Martí,Roger Martí Salvador,Spain,Left Center Forward,Attaquant,0
+6688,José Campaña,José Ángel Gómez Campaña,Spain,Left Center Midfield,Milieu,0
+6691,Jason,David Remeseiro Salgueiro,Spain,Right Midfield,Milieu,0
+6782,Enis Bardhi,Enis Bardhi,"Macedonia, Republic of",Left Midfield,Milieu,0
+6807,Rober,Roberto Suárez Pier,Spain,Left Center Back,Défenseur,0
+17303,Nikola Vukčević,Nikola Vukčević,Montenegro,Center Defensive Midfield,Milieu,0
+18163,Moses Simon,Moses Daddy-Ajala Simon,Nigeria,Left Midfield,Milieu,0
+21147,Borja Mayoral,Borja Mayoral Moya,Spain,Center Forward,Attaquant,0
+23344,Aitor Fernández,Aitor Fernández Abarisketa,Spain,Goalkeeper,Gardien,0
+3551,Karl Toko Ekambi,Karl Brillant Toko Ekambi,Cameroon,Center Forward,Attaquant,0
+5688,Carlos Bacca,Carlos Arturo Bacca Ahumada,Colombia,Center Forward,Attaquant,0
+6737,Alfonso Pedraza,Alfonso Pedraza Sag,Spain,Left Back,Défenseur,0
+6752,Víctor Ruíz,Víctor Ruíz Torre,Spain,Left Center Back,Défenseur,0
+6753,Dani Raba,Daniel Raba Antolín,Spain,Right Center Midfield,Milieu,0
+6755,Sergio Asenjo,Sergio Asenjo Andrés,Spain,Goalkeeper,Gardien,0
+6762,Álvaro González,Álvaro González Soberón,Spain,Right Center Back,Défenseur,0
+6764,Pablo Fornals,Pablo Fornals Malla,Spain,Left Midfield,Milieu,0
+6766,Gerard Moreno,Gerard Moreno Balaguero,Spain,Right Center Forward,Attaquant,0
+6771,Manu Trigueros,Manuel Trigueros Muñoz,Spain,Right Center Midfield,Milieu,0
+6772,Mario Gaspar,Mario Gaspar Pérez Martínez,Spain,Right Back,Défenseur,0
+11385,Santiago Cáseres,Santiago Cáseres,Argentina,Center Defensive Midfield,Milieu,0
+11386,Santi Cazorla,Santiago Cazorla González,Spain,Left Center Midfield,Milieu,0
+16335,Samuel Chukwueze,Samuel Chimerenka Chukwueze,Nigeria,Right Midfield,Milieu,0
+6351,Cristhian Stuani,Cristhian Ricardo Stuani Curbelo,Uruguay,Left Center Forward,Attaquant,0
+6565,Pere Pons,Pere Pons Riera,Spain,Center Defensive Midfield,Milieu,0
+6570,Álex Granell,Alejandro Granell Nogué,Spain,Left Center Midfield,Milieu,0
+6572,Juanpe,Juan Pedro Ramírez López,Spain,Left Center Back,Défenseur,0
+6573,Bernardo Espinosa,Bernardo José Espinosa Zúñiga,Colombia,Center Back,Défenseur,0
+6574,Douglas Luiz,Douglas Luiz Soares de Paulo,Brazil,Center Defensive Midfield,Milieu,0
+6579,Pedro Alcalá,Pedro Alcalá Guirado,Spain,Right Center Back,Défenseur,0
+6582,Portu,Cristian Portugués Manzanera,Spain,Right Wing,Attaquant,0
+6785,Yassine Bounou,Yassine Bounou,Morocco,Goalkeeper,Gardien,0
+6888,Aleix García,Aleix García Serrano,Spain,Left Center Midfield,Milieu,0
+7578,Anthony Lozano,Anthony Rubén Lozano Colón,Honduras,Right Center Forward,Attaquant,0
+11292,Pedro Porro,Pedro Antonio Porro Sauceda,Spain,Right Back,Défenseur,0
+22129,Valery Fernández,Valery Fernández Estrada,Spain,Left Wing Back,Défenseur,0
+23264,Paik Seung-Ho,Seung-Ho Paik,Korea (South),Left Center Midfield,Milieu,0
+6038,John Guidetti,John Guidetti,Sweden,Right Center Forward,Attaquant,0
+6604,Darko Brašanac,Darko Brašanac,Serbia,Left Center Midfield,Milieu,0
+6622,Tomás Pina,Tomás Pina Isla,Spain,Left Center Midfield,Milieu,0
+6636,Rodrigo Ely,Rodrigo Ely,Brazil,Center Back,Défenseur,0
+6739,Diego Rolán,Diego Alejandro Rolan Silva,Uruguay,Right Wing,Attaquant,0
+6856,Carlos Vigaray,Carlos Martín Vigaray,Spain,Right Wing Back,Défenseur,0
+6923,Ximo Navarro,Joaquín Navarro Jiménez,Spain,Left Center Back,Défenseur,0
+12190,Patrick Twumasi,Patrick Twumasi,Ghana,Right Midfield,Milieu,0
+6734,Luisinho,Luis Carlos Correia Pinto,Portugal,Left Back,Défenseur,0
+6788,Xabier Etxeita,Xabier Etxeita Gorritxategi,Spain,Left Center Back,Défenseur,0
+6857,Rúben Semedo,Rúben Afonso Borges Semedo,Portugal,Right Center Back,Défenseur,0
+9747,Axel Werner,Axel Werner,Argentina,Goalkeeper,Gardien,0
+11669,Gonzalo Melero,Gonzalo Julián Melero Manzanares,Spain,Left Defensive Midfield,Milieu,0
+11671,Cucho Hernández,Juan Camilo Hernández Suárez,Colombia,Left Center Forward,Attaquant,0
+11672,Samuele Longo,Samuele Longo,Italy,Right Center Forward,Attaquant,0
+11673,Álex Gallar,Alejandro Gallar Falguera,Spain,Right Midfield,Milieu,0
+11674,Damián Musto,Damián Marcelo Musto,Argentina,Right Defensive Midfield,Milieu,0
+11675,Moi Gómez,Moisés Gómez Bordonado,Spain,Left Midfield,Milieu,0
+11676,Jorge Miramón,Jorge Miramón Santagertrudis,Spain,Right Back,Défenseur,0
+11677,Jorge Pulido,Jorge Pulido Mayoral,Spain,Right Center Back,Défenseur,0
+11678,Chimy Ávila,Luis Ezequiel Ávila,Argentina,Center Forward,Attaquant,0
+12554,Serdar Gürler,Serdar Gürler,Turkey,Left Midfield,Milieu,0
+5674,Moussa Wagué,Moussa Wagué,Senegal,Right Back,Défenseur,1
+8652,Jasper Cillessen,Jasper Cillessen,Netherlands,Goalkeeper,Gardien,1
+25006,Carles Pérez,Carles Pérez Sayol,Spain,Left Wing,Attaquant,1
+6698,Marko Dmitrović,Marko Dmitrović,Serbia,Goalkeeper,Gardien,0
+6700,Sergi Enrich,Sergio Enrich Ametller,Spain,Center Forward,Attaquant,0
+6701,Joan Jordán,Joan Jordán Moreno,Spain,Left Center Midfield,Milieu,0
+6705,Cote,José Ángel Valdés Díaz,Spain,Left Back,Défenseur,0
+6707,Charles,Charles Días Barbosa de Oliveira,Brazil,Left Center Forward,Attaquant,0
+6708,Paulo Oliveira,Paulo André Rodrigues de Oliveira,Portugal,Right Center Back,Défenseur,0
+6711,Kike,Enrique García Martínez,Spain,Center Attacking Midfield,Milieu,0
+6712,Gonzalo Escalante,Gonzalo Escalante,Argentina,Right Defensive Midfield,Milieu,0
+6778,Iván Ramis,Iván Ramis Barrios,Spain,Left Center Back,Défenseur,0
+7105,Fabián Orellana,Fabián Ariel Orellana Valenzuela,Chile,Right Midfield,Milieu,0
+8555,Pablo de Blasis,Pablo Ezequiel De Blasis,Argentina,Left Wing,Attaquant,0
+13107,Sergio Álvarez,Sergio Álvarez Díaz,Spain,Left Center Back,Défenseur,0
+13108,Marc Cardona,Marc Cardona Rovira,Spain,Center Forward,Attaquant,0
+17620,Marc Cucurella,Marc Cucurella Saseta,Spain,Left Midfield,Milieu,0
+6709,Anaitz Arbilla,Anaitz Arbilla Zabala,Spain,Left Center Back,Défenseur,0
+6710,Rubén Peña,Rubén Peña Jiménez,Spain,Right Back,Défenseur,0
+6867,Pape Diop,Papa Kouly Diop,Senegal,Left Center Midfield,Milieu,0
+7907,Pedro Bigas,Pedro Bigas Rigo,Spain,Left Center Back,Défenseur,0
+10763,Asier Riesgo,Asier Riesgo Unamuno,Spain,Goalkeeper,Gardien,0
+4346,Giannelli Imbula,Gilbert Gianelli Imbula Wanga,"Congo, (Kinshasa)",Right Defensive Midfield,Milieu,0
+5521,Luis Advíncula,Luis Jan Piers Advíncula Castrillón,Peru,Right Wing Back,Défenseur,0
+6652,Jordi Amat,Jordi Amat Maas,Spain,Left Center Back,Défenseur,0
+6924,Alejandro Gálvez,Alejandro Gálvez Jimena,Spain,Center Back,Défenseur,0
+7900,Bebé,Tiago Manuel Dias Correia,Cape Verde,Right Wing,Attaquant,0
+11535,José Ángel Pozo,José Ángel Pozo la Rosa,Spain,Left Center Midfield,Milieu,0
+11538,Moreno Lopera,Alejandro Moreno Lopera,Spain,Left Back,Défenseur,0
+11539,Adri Embarba,Adrián Embarba Blázquez,Spain,Left Midfield,Milieu,0
+12192,Álvaro García,Álvaro García Rivera,Spain,Left Wing,Attaquant,0
+12194,Santi Comesaña,Santiago Comesaña Veiga,Spain,Left Defensive Midfield,Milieu,0
+16209,Raúl de Tomás,Raúl de Tomás Gómez,Spain,Center Forward,Attaquant,0
+17054,Emiliano Velázquez,Emiliano Daniel Velázquez Maldonado,Uruguay,Right Center Back,Défenseur,0
+21397,Stole Dimitrievski,Stole Dimitrievski,"Macedonia, Republic of",Goalkeeper,Gardien,0
+4407,Sanjin Prcić,Sanjin Prcić,Bosnia and Herzegovina,Right Defensive Midfield,Milieu,0
+6678,Emmanuel Boateng,Emmanuel Okyere Boateng,Ghana,Right Center Forward,Attaquant,0
+6682,Sergio Postigo,Sergio Postigo Redondo,Spain,Right Center Back,Défenseur,0
+6692,Oier Olazábal,Oier Olazábal Paredes,Spain,Goalkeeper,Gardien,0
+6784,Toño,Antonio García Aranda,Spain,Left Back,Défenseur,0
+6809,Erick Cabaco,Erick Cathriel Cabaco Almada,Uruguay,Left Center Back,Défenseur,0
+24976,Abel Ruiz,Abel Ruiz Ortega,Spain,Left Center Forward,Attaquant,1
+5693,Gaku Shibasaki,Gaku Shibasaki,Japan,Left Midfield,Milieu,0
+7104,Mathías Olivera,Mathías Olivera Miramontes,Uruguay,Left Back,Défenseur,0
+7621,Hugo Duro,Hugo Duro Perales,Spain,Left Center Forward,Attaquant,0
+6394,Aritz Aduriz,Aritz Aduriz Zubeldia,Spain,Left Center Forward,Attaquant,0
+11744,Peru Nolaskoain,Peru Nolaskoain Esnal,Spain,Left Center Back,Défenseur,0
+11748,Unai Simón,Unai Simón Mendibil,Spain,Goalkeeper,Gardien,0
+6560,Marc Muniesa,Marc Muniesa Martínez,Spain,Left Wing Back,Défenseur,0
+6567,Borja García,Borja García Freire,Spain,Left Center Midfield,Milieu,0
+6578,Aday Benítez,Francesc Aday Benítez Caraballo,Spain,Right Wing Back,Défenseur,0
+17276,Seydou Doumbia,Seydou Doumbia,Côte d'Ivoire,Right Center Forward,Attaquant,0
+3497,Vicente Iborra,Vicente Iborra De La Fuente,Spain,Center Defensive Midfield,Milieu,0
+4629,Ramiro Funes Mori,José Ramiro Funes Mori,Argentina,Center Back,Défenseur,0
+6827,Daniele Bonera,Daniele Bonera,Italy,Right Wing,Attaquant,0
+11384,Manu Morlanes,Manuel Morlanes Ariño,Spain,Right Defensive Midfield,Milieu,0
+3457,Michy Batshuayi,Michy Batshuayi Tunga,Belgium,Right Center Forward,Attaquant,0
+4367,Gonçalo Guedes,Gonçalo Manuel Ganchinho Guedes,Portugal,Left Center Forward,Attaquant,0
+6583,Carlos Soler,Carlos Soler Barragán,Spain,Right Center Midfield,Milieu,0
+6596,José Gayá,José Luis Gayà Peña,Spain,Left Back,Défenseur,0
+3509,Thibaut Courtois,Thibaut Courtois,Belgium,Goalkeeper,Gardien,0
+4926,Isco,Francisco Román Alarcón Suárez,Spain,Center Attacking Midfield,Milieu,0
+5201,Sergio Ramos,Sergio Ramos García,Spain,Left Center Back,Défenseur,0
+5463,Luka Modrić,Luka Modrić,Croatia,Right Center Midfield,Milieu,0
+5485,Raphaël Varane,Raphaël Varane,France,Right Center Back,Défenseur,0
+5539,Casemiro,Carlos Henrique Casimiro,Brazil,Center Defensive Midfield,Milieu,0
+5574,Toni Kroos,Toni Kroos,Germany,Left Center Midfield,Milieu,0
+5719,Marco Asensio Willemsen,Marco Asensio Willemsen,Spain,Right Wing,Attaquant,0
+5721,Daniel Carvajal,Daniel Carvajal Ramos,Spain,Right Back,Défenseur,0
+6399,Gareth Bale,Gareth Frank Bale,Wales,Right Center Forward,Attaquant,0
+6773,Federico Valverde,Federico Santiago Valverde Dipetta,Uruguay,Right Center Midfield,Milieu,0
+18395,Vinícius Júnior,Vinícius José Paixão de Oliveira Júnior,Brazil,Left Midfield,Milieu,0
+18620,Sergio Reguilón,Sergio Reguilón Rodríguez,Spain,Left Back,Défenseur,0
+19677,Karim Benzema,Karim Benzema,France,Center Forward,Attaquant,0
+8419,Duje Čop,Duje Čop,Croatia,Right Center Forward,Attaquant,0
+11294,Borja Fernández,Borja Fernández Fernández,Spain,Center Defensive Midfield,Milieu,0
+11296,Óscar Plano,Óscar Plano Pedreño,Spain,Left Center Forward,Attaquant,0
+11297,Javi Moyano,Javier Moyano Lujano,Spain,Right Back,Défenseur,0
+11300,Rubén Alcaraz,Rubén Alcaraz Jiménez,Spain,Left Center Midfield,Milieu,0
+6569,Roberto Rosales,Roberto José Rosales Altuve,Venezuela (Bolivarian Republic),Right Wing Back,Défenseur,0
+6769,Naldo,Edinaldo Gomes Pereira,Brazil,Center Back,Défenseur,0
+6790,Mario Hermoso,Mario Hermoso Canseco,Spain,Left Center Back,Défenseur,0
+10323,Alfa Semedo,Alfa Semedo Esteves,Guinea-Bissau,Center Defensive Midfield,Milieu,0
+22287,Adrià Pedrosa,Adrià Giner Pedrosa,Spain,Left Wing Back,Défenseur,0
+22919,Lluís López,Lluís López Mármol,Spain,Right Center Back,Défenseur,0
+23343,Wu Lei,Lei Wu,China,Left Center Forward,Attaquant,0
+8118,Frenkie de Jong,Frenkie de Jong,Netherlands,Right Center Midfield,Milieu,1
+6910,Edu Expósito,Eduardo Expósito Jaén,Spain,Left Defensive Midfield,Milieu,0
+7154,Sebastián Cristóforo,Sebastián Carlos Cristóforo Pepe,Uruguay,Left Defensive Midfield,Milieu,0
+23803,Esteban Burgos,Esteban Rodrigo Burgos,Argentina,Right Center Back,Défenseur,0
+23808,Quique,Enrique González Casín,Spain,Center Forward,Attaquant,0
+23981,Álvaro Tejero,Álvaro Tejero Sacristán,Spain,Right Back,Défenseur,0
+3139,Chidozie Awaziem,Chidozie Collins Awaziem,Nigeria,Right Center Back,Défenseur,0
+3246,Guido Carrillo,Guido Marcelo Carrillo,Argentina,Center Forward,Attaquant,0
+6602,Miguel Ángel Guerrero,Miguel Ángel Guerrero Martín,Spain,Left Center Forward,Attaquant,0
+6851,Aitor Ruibal,Aitor Ruibal García,Spain,Right Wing,Attaquant,0
+6885,Kévin Rodrigues,Kévin Manuel Rodrigues,Portugal,Left Wing Back,Défenseur,0
+16024,Roger Assalé,Roger Claver Assalé Djapone,Côte d'Ivoire,Left Center Forward,Attaquant,0
+22418,Bryan Gil,Bryan Gil Salvatierra,Spain,Left Center Midfield,Milieu,0
+24841,Riqui Puig,Ricard Puig Martí,Spain,Left Center Midfield,Milieu,1
+30756,Ansu Fati,Anssumane Fati,Spain,Left Wing,Attaquant,1
+5194,Fyodor Smolov,Fyodor Smolov,Russia,Left Center Forward,Attaquant,0
+6310,Filip Bradarić,Filip Bradarić,Croatia,Center Defensive Midfield,Milieu,0
+6585,Jeison Murillo,Jeison Fabián Murillo Cerón,Colombia,Center Back,Défenseur,0
+6724,Nolito,Manuel Agudo Durán,Spain,Left Wing,Attaquant,0
+16555,Joseph Aidoo,Joseph Aidoo,Ghana,Right Center Back,Défenseur,0
+22029,Kevin Vázquez,Kevin Vázquez Comesaña,Spain,Right Back,Défenseur,0
+24273,Jorge Sáenz,Jorge Sáenz de Miera Colmeiro,Spain,Left Center Back,Défenseur,0
+41116,Jacobo González,Jacobo González Rodrigañez,Spain,Left Wing Back,Défenseur,0
+3804,Ferland Mendy,Ferland Mendy,France,Left Back,Défenseur,0
+25104,Rodrygo,Rodrygo Silva de Goes,Brazil,Center Attacking Midfield,Milieu,0
+3141,André Zambo Anguissa,André-Frank Zambo Anguissa,Cameroon,Right Center Midfield,Milieu,0
+6892,Pau Torres,Pau Francisco Torres,Spain,Left Center Back,Défenseur,0
+7030,Raúl Albiol,Raúl Albiol i Tortajada,Spain,Right Center Back,Défenseur,0
+20063,Javi Ontiveros,Javier Ontiveros Parra,Spain,Left Wing,Attaquant,0
+24729,Xavi Quintillà,Xavier Quintillà Guasch,Spain,Left Back,Défenseur,0
+3515,Alberto Moreno,Alberto Moreno Pérez,Spain,Left Back,Défenseur,0
+6402,Paco Alcácer,Francisco Alcácer García,Spain,Left Center Forward,Attaquant,0
+22819,Bruno Soriano,Bruno Soriano Llido,Spain,Left Defensive Midfield,Milieu,0
+34515,Fernando Niño,Fernando Niño Rodriguez,Spain,Center Forward,Attaquant,0
+32480,Ronald Araújo,Ronald Federico Araújo da Silva,Uruguay,Right Center Back,Défenseur,1
+6796,Nemanja Radoja,Nemanja Radoja,Serbia,Right Defensive Midfield,Milieu,0
+23948,Carlos Clerc,Carlos Clerc Martínez,Spain,Left Back,Défenseur,0
+8654,Ante Budimir,Ante Budimir,Croatia,Left Center Forward,Attaquant,0
+23986,Aleix Febas,Aleix Febas Pérez,Spain,Right Center Forward,Attaquant,0
+24067,Abdón Prats,Abdón Prats Bastidas,Spain,Left Center Forward,Attaquant,0
+24072,Salva Sevilla,Salvador Sevilla López,Spain,Left Center Midfield,Milieu,0
+24083,Manolo Reina,Manuel Reina Rodríguez,Spain,Goalkeeper,Gardien,0
+24084,Martin Valjent,Martin Valjent,Slovakia,Right Center Back,Défenseur,0
+24086,Antonio Raillo,Antonio José Raillo Arenas,Spain,Left Center Back,Défenseur,0
+24087,Iddrisu Baba,Iddrisu Baba Mohammed,Ghana,Right Center Midfield,Milieu,0
+24088,Dani Rodríguez,Daniel José Rodríguez Vázquez,Spain,Left Midfield,Milieu,0
+24089,Joan Sastre,Joan Sastre Vanrell,Spain,Left Back,Défenseur,0
+24576,Fran Gámez,Francisco Gámez López,Spain,Left Back,Défenseur,0
+27342,Josep Señé,Josep Señé Escudero,Spain,Left Center Midfield,Milieu,0
+31090,Takefusa Kubo,Takefusa Kubo,Japan,Right Midfield,Milieu,0
+3498,Nacho Monreal,Ignacio Monreal Eraso,Spain,Left Back,Défenseur,0
+6330,Adnan Januzaj,Adnan Januzaj,Belgium,Right Midfield,Milieu,0
+8252,Martin Ødegaard,Martin Ødegaard,Norway,Center Attacking Midfield,Milieu,0
+8819,Alexander Isak,Alexander Isak,Sweden,Center Forward,Attaquant,0
+24236,Ander Guevara,Ander Guevara Lajo,Spain,Right Defensive Midfield,Milieu,0
+32185,Álex Remiro,Alejandro Remiro Gargallo,Spain,Goalkeeper,Gardien,0
+12020,Hernâni,Hernâni Jorge Santos Fortes,Portugal,Left Midfield,Milieu,0
+6828,Jaume Costa,Jaume Vicent Costa Jordá,Spain,Left Center Forward,Attaquant,0
+6898,Jaume Doménech,Jaume Doménech Sánchez,Spain,Goalkeeper,Gardien,0
+24949,Álex Collado,Álex Collado Gutiérrez,Spain,Right Wing Back,Défenseur,1
+6591,Nacho Vidal,Ignacio Vidal Miralles,Spain,Right Back,Défenseur,0
+6693,Raúl Navas,Raúl Rodríguez Navas,Spain,Center Back,Défenseur,0
+6735,Adrián López,Adrián López Álvarez,Spain,Left Center Forward,Attaquant,0
+6810,José Arnáiz,José Manuel Arnáiz Díaz,Spain,Right Center Forward,Attaquant,0
+23213,Enric Gallego,Enric Gallego Puigsech,Spain,Center Attacking Midfield,Milieu,0
+23944,Oier,Oier Sanjurjo Mate,Spain,Center Defensive Midfield,Milieu,0
+23945,Iñigo Pérez,Iñigo Pérez Soto,Spain,Left Center Midfield,Milieu,0
+23947,Roberto Torres,Roberto Torres Morales,Spain,Right Center Midfield,Milieu,0
+23950,David García,David García Zubiría,Spain,Left Center Back,Défenseur,0
+24085,Pervis Estupiñán,Pervis Josué Estupiñán Tenorio,Ecuador,Left Back,Défenseur,0
+24211,Sergio Herrera,Sergio Herrera Pirón,Spain,Goalkeeper,Gardien,0
+24212,Aridane Hernández,Aridane Hernández Umpiérrez,Spain,Right Center Back,Défenseur,0
+24315,Kike Barja,Enrique Barja Afonso,Spain,Center Forward,Attaquant,0
+30277,Jon Moncayola,Jon Moncayola Tollar,Spain,Center Defensive Midfield,Milieu,0
+3265,Joselu,José Luis Sanmartín Mato,Spain,Center Forward,Attaquant,0
+3513,Oliver Burke,Oliver Burke,Scotland,Left Midfield,Milieu,0
+6571,Roberto Jiménez,Roberto Jiménez Gago,Spain,Goalkeeper,Gardien,0
+6659,Víctor Camarasa,Víctor Camarasa Ferrando,Spain,Right Center Midfield,Milieu,0
+6732,Lucas Pérez,Lucas Pérez Martínez,Spain,Center Forward,Attaquant,0
+10318,Ljubomir Fejsa,Ljubomir Fejsa,Serbia,Center Defensive Midfield,Milieu,0
+23263,Lisandro Magallán,Lisandro Magallán,Argentina,Left Center Back,Défenseur,0
+24049,Luis Rioja,Luis Jesús Rioja González,Spain,Left Midfield,Milieu,0
+26387,Edgar Méndez,Edgar Antonio Méndez Ortega,Spain,Right Midfield,Milieu,0
+30419,Tachi Rodríguez,Alberto Rodríguez Baró,Spain,Right Center Back,Défenseur,0
+41125,Abdallahi Mohamed Mahmoud,Abdallahi Mohamed Mahmoud,Mauritania,Left Center Midfield,Milieu,0
+6387,Iñigo Córdoba,Iñigo Córdoba Kerejeta,Spain,Left Midfield,Milieu,0
+6392,Iñigo Lekue,Íñigo Lekue Martínez,Spain,Right Back,Défenseur,0
+6397,Unai Núñez,Unai Núñez Gestoso,Spain,Right Center Back,Défenseur,0
+6699,Ander Capa,Ander Capa Rodríguez,Spain,Right Back,Défenseur,0
+11746,Unai López,Unai López Cabrera,Spain,Right Defensive Midfield,Milieu,0
+30225,Oihan Sancet,Oihan Sancet Tirapu,Spain,Center Attacking Midfield,Milieu,0
+32953,Asier Villalibre,Asier Villalibre Molina,Spain,Center Forward,Attaquant,0
+12073,Pablo Hervías,Pablo Hervías Ruiz,Spain,Right Midfield,Milieu,0
+21225,Javier Sánchez,Javier Sánchez de Felipe,Spain,Left Center Back,Défenseur,0
+24141,Fede,Federico San Emeterio Díaz,Spain,Right Center Midfield,Milieu,0
+24777,Waldo Rubio,Waldo Rubio Martín,Spain,Left Center Forward,Attaquant,0
+40881,Kike Pérez,Enrique Pérez Muñoz,Spain,Left Midfield,Milieu,0
+6670,Andoni Gorosabel,Andoni Gorosabel Espinosa,Spain,Right Back,Défenseur,0
+22128,Robin Le Normand,Robin Aime Robert Le Normand,France,Left Center Back,Défenseur,0
+30420,Víctor Campuzano,Víctor Campuzano Bonilla,Spain,Center Attacking Midfield,Milieu,0
+31885,Pol Lozano,Pol Lozano Vizuete,Spain,Right Center Midfield,Milieu,0
+32670,Víctor Gómez,Víctor Gómez Perea,Spain,Right Midfield,Milieu,0
+5633,Yannick Carrasco,Yannick Ferreira Carrasco,Belgium,Left Wing Back,Défenseur,0
+6840,Marcos Llorente,Marcos Llorente Moreno,Spain,Right Center Forward,Attaquant,0
+11167,Felipe,Felipe Augusto de Almeida Monteiro,Brazil,Center Back,Défenseur,0
+12041,João Félix,João Félix Sequeira,Portugal,Left Center Forward,Attaquant,0
+26532,Renan Lodi,Renan Augusto Lodi dos Santos,Brazil,Left Back,Défenseur,0
+4558,Pape Diop,Pape Cheikh Diop Gueye,Senegal,Left Center Midfield,Milieu,0
+6776,David Juncà,David Juncà Reñé,Spain,Left Wing Back,Défenseur,0
+24730,Lucas Olaza,Lucas René Olaza Catrofe,Uruguay,Left Center Back,Défenseur,0
+30294,Gabriel Fernández,Gabriel Matías Fernández Leites,Uruguay,Left Center Midfield,Milieu,0
+17520,Federico Barba,Federico Barba,Italy,Left Back,Défenseur,0
+30519,Mohamed Salisu,Mohamed Salisu,Ghana,Left Center Back,Défenseur,0
+3122,Yannis Salibur,Yannis Salibur,France,Right Midfield,Milieu,0
+24079,Lago Junior,Júnior Wakalibille Lago,Côte d'Ivoire,Left Midfield,Milieu,0
+24269,Marc Pedraza,Marc Pedraza Sarto,Spain,Right Defensive Midfield,Milieu,0
+24613,Alejandro Pozo,Alejandro Pozo Pozo,Spain,Right Back,Défenseur,0
+6388,Ander Iturraspe,Ander Iturraspe Derteano,Spain,Right Defensive Midfield,Milieu,0
+6930,Jonathan Calleri,Jonathan Calleri,Argentina,Right Center Forward,Attaquant,0
+30421,Matías Vargas,Matías Ezequiel Vargas Martín,Argentina,Right Midfield,Milieu,0
+3366,Diego Carlos,Diego Carlos Santos Silva,Brazil,Left Center Back,Défenseur,0
+4345,Lucas Ocampos,Lucas Ariel Ocampos,Argentina,Right Wing,Attaquant,0
+4445,Jules Koundé,Jules Koundé,France,Right Center Back,Défenseur,0
+7022,Suso,Jesús Joaquín Fernández Sáez de la Torre,Spain,Right Wing,Attaquant,0
+12021,Óliver Torres,Óliver Torres Muñoz,Spain,Left Center Midfield,Milieu,0
+16003,Fernando Reges,Fernando Francisco Reges,Brazil,Center Defensive Midfield,Milieu,0
+16489,Nemanja Gudelj,Nemanja Gudelj,Serbia,Center Back,Défenseur,0
+20033,Luuk de Jong,Luuk de Jong,Netherlands,Center Forward,Attaquant,0
+3163,Mariano Díaz,Mariano Díaz Mejía,Dominican Republic,Center Forward,Attaquant,0
+5200,Lucas Vázquez,Lucas Vázquez Iglesias,Spain,Right Back,Défenseur,0
+5552,Marcelo,Marcelo Vieira da Silva Júnior,Brazil,Left Back,Défenseur,0
+6907,Pedro León,Pedro León Sánchez Gil,Spain,Right Midfield,Milieu,0
+2948,Nabil Fekir,Nabil Fekir,France,Center Attacking Midfield,Milieu,0
+16309,Joel Robles,Joel Robles Blázquez,Spain,Goalkeeper,Gardien,0
+26404,Guido Rodríguez,Guido Rodríguez,Argentina,Center Defensive Midfield,Milieu,0
+6982,Maxime Gonalons,Maxime Gonalons,France,Left Center Midfield,Milieu,0
+8866,Carlos Fernández,Carlos Fernández Luna,Spain,Center Forward,Attaquant,0
+11501,Darwin Machís,Darwin Daniel Machís Marcano,Venezuela (Bolivarian Republic),Left Wing,Attaquant,0
+16249,Yangel Herrera,Yangel Clemente Herrera Ravelo,Venezuela (Bolivarian Republic),Right Center Midfield,Milieu,0
+23807,Domingos Duarte,Domingos Sousa Coutinho Meneses Duarte,Portugal,Right Center Back,Défenseur,0
+24126,Antonio Puertas,José Antonio Rodríguez Díaz,Spain,Right Wing,Attaquant,0
+24127,Ramon Azeez,Ramon Olamilekan Azeez,Nigeria,Center Attacking Midfield,Milieu,0
+24133,Víctor Díaz,Víctor David Díaz Miguel,Spain,Right Back,Défenseur,0
+24134,Germán Sánchez,Germán Sánchez Barahona,Spain,Left Center Back,Défenseur,0
+24140,Rui Silva,Rui Tiago Dantas da Silva,Portugal,Goalkeeper,Gardien,0
+24143,Álvaro Vadillo,Álvaro Vadillo Cifuentes,Spain,Left Wing,Attaquant,0
+24144,Ángel Montoro,Ángel Montoro Sánchez,Spain,Center Attacking Midfield,Milieu,0
+25702,Carlos Neva,Carlos Neva Tey,Spain,Left Back,Défenseur,0
+26009,Roberto Soldado,Roberto Soldado Rillo,Spain,Center Forward,Attaquant,0
+3666,Kenedy,Robert Kenedy Nunes do Nascimento,Brazil,Left Midfield,Milieu,0
+5466,Peter Etebo,Oghenekaro Etebo,Nigeria,Right Midfield,Milieu,0
+6621,Amath Ndiaye,Amath Ndiaye,Senegal,Right Midfield,Milieu,0
+3308,Kieran Trippier,Kieran Trippier,England,Right Wing Back,Défenseur,0
+5575,Héctor Herrera,Héctor Miguel Herrera López,Mexico,Right Center Midfield,Milieu,0
+6400,Aleix Vidal,Aleix Vidal Parreu,Spain,Right Midfield,Milieu,0
+24078,Javier Muñoz,Javier Muñoz Jiménez,Spain,Center Attacking Midfield,Milieu,0
+24052,Yan Eteki,Yan Brice Eteki,Cameroon,Left Center Midfield,Milieu,0
+24142,José Martínez,José Antonio Martínez Gil,Spain,Left Center Back,Défenseur,0
+3058,Javier Hernández Balcázar,Javier Hernández Balcázar,Mexico,Center Forward,Attaquant,0
+11532,Jean-Clair Todibo,Jean-Clair Todibo,France,Right Center Back,Défenseur,1
+3093,Florian Grégoire Claude Lejeune,Florian Grégoire Claude Lejeune,France,Left Center Back,Défenseur,0
+9462,Jota Peleteiro,José Ignacio Peleteiro Ramallo,Spain,Left Center Midfield,Milieu,0
+10605,Rodrigo Battaglia,Rodrigo Andrés Battaglia,Argentina,Center Defensive Midfield,Milieu,0
+25134,Deyverson,Deyverson Brum Silva Acosta,Brazil,Center Forward,Attaquant,0
+31779,Tomas Tavares,Tomas Franco Tavares,Portugal,Right Midfield,Milieu,0
+6947,Miralem Pjanić,Miralem Pjanić,Bosnia and Herzegovina,Right Defensive Midfield,Milieu,1
+21881,Sergiño Dest,Sergino Dest,United States of America,Right Back,Défenseur,1
+22390,Francisco Trincão,Francisco António Machado Mota de Castro Trincão,Portugal,Right Wing,Attaquant,1
+30486,Pedri,Pedro González López,Spain,Left Center Midfield,Milieu,1
+6893,Jesús Vallejo Lázaro,Jesús Vallejo Lázaro,Spain,Right Back,Défenseur,0
+24037,Alberto Soro,Alberto Soro Álvarez,Spain,Right Wing,Attaquant,0
+24093,Luis Suárez,Luis Javier Suárez Charris,Colombia,Center Forward,Attaquant,0
+24272,Luis Milla,Luis Milla Manzanares,Spain,Center Attacking Midfield,Milieu,0
+43728,Óscar Mingueza,Óscar Mingueza García,Spain,Right Center Back,Défenseur,1
+39073,Ilaix Moriba,Moriba Kourouma Kourouma,Guinea,Left Center Midfield,Milieu,1
+6757,Aarón Martín,Aarón Martín Caricol,Spain,Left Back,Défenseur,0
+28658,Augusto Solari,Augusto Jorge Mateo Solari,Argentina,Left Midfield,Milieu,0
+39598,Miguel Baeza,Miguel Baeza Pérez,Spain,Right Center Forward,Attaquant,0
+40890,Iván Villar,Iván Villar Martínez,Spain,Goalkeeper,Gardien,0
+75546,Carlos Domínguez,Carlos Domínguez Cáceres,Spain,Left Center Back,Défenseur,0
+117025,Hugo Sotelo,Hugo Sotelo,Spain,Right Center Midfield,Milieu,0
+41083,Rodri,Rodrigo Sánchez Rodriguez,Spain,Left Wing,Attaquant,0
+42282,Paul Edgar Akouokou,Paul Edgar Akouokou,Côte d'Ivoire,Right Defensive Midfield,Milieu,0
+12419,Lucas Torró,Lucas Torró Marset,Spain,Right Defensive Midfield,Milieu,0
+23943,Rubén García,Rubén García Santos,Spain,Left Midfield,Milieu,0
+33339,Manu Sánchez,Manuel Sánchez De La Peña,Spain,Left Back,Défenseur,0
+5202,Nacho,José Ignacio Fernández Iglesias,Spain,Left Center Back,Défenseur,0
+6689,Álvaro Odriozola,Álvaro Odriozola Arzallus,Spain,Right Back,Défenseur,0
+13620,Éder Militão,Éder Gabriel Militão,Brazil,Right Center Back,Défenseur,0
+23966,Mickaël Malsa,Mickaël Malsa,Martinique,Left Defensive Midfield,Milieu,0
+30492,Son,Francisco Javier Hidalgo Gómez,Spain,Right Midfield,Milieu,0
+30593,Dani Gómez,Daniel Gómez Alcón,Spain,Left Center Forward,Attaquant,0
+32673,Jorge De Frutos,Jorge De Frutos Sebastián,Spain,Right Midfield,Milieu,0
+5523,Renato Tapia,Renato Fabrizio Tapia Cortijo,Peru,Center Defensive Midfield,Milieu,0
+6803,Emre Mor,Emre Mor,Turkey,Right Center Forward,Attaquant,0
+35000,José Fontán,José Manuel Fontán Mondragón,Spain,Left Wing Back,Défenseur,0
+47447,Gabri Veiga,Gabriel Veiga Novas,Spain,Right Center Midfield,Milieu,0
+3810,Shinji Okazaki,Shinji Okazaki,Japan,Center Forward,Attaquant,0
+6656,Mikel Rico,Mikel Rico Moreno,Spain,Center Defensive Midfield,Milieu,0
+6733,Pedro Mosquera,Pedro Mosquera Parada,Spain,Right Center Midfield,Milieu,0
+11670,David Ferreiro,David Ferreiro Quiroga,Spain,Right Back,Défenseur,0
+21399,Pablo Ínsua,Pablo Ínsua Blanco,Spain,Left Center Back,Défenseur,0
+22199,Sergio Gómez,Sergio Gómez Martín,Spain,Center Attacking Midfield,Milieu,0
+23307,Idrissa Doumbia,Idrissa Doumbia,Côte d'Ivoire,Center Defensive Midfield,Milieu,0
+23322,Javier Galán,Javier Galán Gil,Spain,Left Back,Défenseur,0
+23812,Rafa Mir,Rafael Mir Vicente,Spain,Center Forward,Attaquant,0
+24055,Juan Carlos,Juan Carlos Real Ruiz,Spain,Left Center Midfield,Milieu,0
+25598,Álvaro Fernández,Álvaro Fernández Llorente,Spain,Goalkeeper,Gardien,0
+30483,Jaime Seoane,Jaime Seoane Valenciano,Spain,Center Defensive Midfield,Milieu,0
+19597,Marcos Acuña,Marcos Javier Acuña,Argentina,Left Back,Défenseur,0
+6786,David Timor,David Timor Copoví,Spain,Left Defensive Midfield,Milieu,0
+23211,Víctor Mollejo,Víctor Mollejo Carpintero,Spain,Left Center Forward,Attaquant,0
+4267,Mouctar Diakhaby,Mouctar Diakhaby,Guinea,Left Center Back,Défenseur,0
+22740,Lee Kang-In,Kang-In Lee,Korea (South),Left Midfield,Milieu,0
+23978,Manu Vallejo,Manuel Javier Vallejo Galván,Spain,Left Center Forward,Attaquant,0
+24267,Uroš Račić,Uroš Račić,Serbia,Left Center Midfield,Milieu,0
+25005,Álex Blanco,Alejandro Blanco Sánchez,Spain,Right Midfield,Milieu,0
+38792,Yunus Dimoara Musah,Yunus Dimoara Musah,United States of America,Right Midfield,Milieu,0
+24136,Fede Vico,Federico Vico Villegas,Spain,Right Wing,Attaquant,0
+24138,Quini,Joaquín José Marín Ruiz,Spain,Left Wing Back,Défenseur,0
+25704,Aarón Escandell,Aarón Escandell Banacloche,Spain,Goalkeeper,Gardien,0
+30081,Nehuén Pérez,Nehuén Pérez,Argentina,Left Center Back,Défenseur,0
+41202,Giorgi Kochorashvili,Giorgi Kochorashvili,Georgia,Left Midfield,Milieu,0
+22107,Thierry Correia,Thierry Rendall Correia,Portugal,Right Wing Back,Défenseur,0
+31931,Christian Oliva,Christian Gabriel Oliva Giménez,Uruguay,Right Defensive Midfield,Milieu,0
+35641,Hugo Guillamón,Hugo Guillamón Sanmartín,Spain,Center Back,Défenseur,0
+6564,Pablo Maffeo,Pablo Maffeo Becerra,Spain,Right Wing Back,Défenseur,0
+6787,Pedro López,Pedro López Muñoz,Spain,Right Wing Back,Défenseur,0
+16298,Denis Vavro,Denis Vavro,Slovakia,Right Center Back,Défenseur,0
+24681,Dani Escriche,Daniel Escriche Romero,Spain,Right Center Forward,Attaquant,0
+6681,Chema,José Manuel Rodríguez Benito,Spain,Center Defensive Midfield,Milieu,0
+35287,Soufiane Chakla,Sofian Chakla,Morocco,Left Center Back,Défenseur,0
+41107,Sabit Abdulai,Sabit Abdulai,Ghana,Right Center Midfield,Milieu,0
+71519,Juan Iglesias,Juan Antonio Iglesias Sánchez,Spain,Right Wing,Attaquant,0
+79498,Amankwaa Akurugu,Amankwaa Akurugu,Ghana,Left Back,Défenseur,0
+105762,Josete Miranda,José Antonio Miranda Boacho,Equatorial Guinea,Center Defensive Midfield,Milieu,0
+10709,Modibo Sagnan,Modibo Sagnan,France,Left Center Back,Défenseur,0
+23212,Martín Merquelanz,Martín Merquelanz Castellanos,Spain,Left Wing Back,Défenseur,0
+24921,Martín Zubimendi,Martín Zubimendi Ibáñez,Spain,Center Back,Défenseur,0
+47375,Robert Navarro,Robert Navarro Muñoz,Spain,Right Center Midfield,Milieu,0
+23627,Jota,João Pedro Neves Filipe,Portugal,Right Midfield,Milieu,0
+29310,Shon Zalman Weissman,Shon Zalman Weissman,Israel,Right Center Forward,Attaquant,0
+31235,Maranhão,Marcos André de Sousa Mendonça,Brazil,Left Center Forward,Attaquant,0
+2961,Yann Bodiger,Yann Bodiger,France,Right Center Midfield,Milieu,0
+6908,Iván Alejo,Iván Alejo Peralta,Spain,Right Midfield,Milieu,0
+19668,Augusto Fernández,Augusto Matías Fernández,Argentina,Center Defensive Midfield,Milieu,0
+20542,Álvaro Negredo,Álvaro Negredo Sánchez,Spain,Center Forward,Attaquant,0
+23811,Alberto Perea,Alberto Perea Correoso,Spain,Left Center Midfield,Milieu,0
+23934,Fali Jiménez,Rafael Jiménez Jarque,Spain,Left Center Back,Défenseur,0
+23967,Álex,Alejandro Fernández Iglesias,Spain,Left Center Midfield,Milieu,0
+23971,Jairo Izquierdo,Jairo Izquierdo González,Spain,Left Midfield,Milieu,0
+24053,Álvaro Giménez,Álvaro Giménez Candela,Spain,Center Forward,Attaquant,0
+24322,Isaac Carcelén,Isaac Carcelén Valencia,Spain,Right Back,Défenseur,0
+24593,Marcos Mauro,Marcos Mauro López Gutiérrez,Argentina,Left Center Back,Défenseur,0
+24616,Alfonso Espino,Luis Alfonso Espino García,Uruguay,Left Back,Défenseur,0
+29198,Jeremías Ledesma,Jeremías Ledesma,Argentina,Goalkeeper,Gardien,0
+30370,Jens Jønsson,Jens Jønsson,Denmark,Center Defensive Midfield,Milieu,0
+31914,Omobolaji Adekanye,Omobolaji Habeeb Adekanye,Netherlands,Left Midfield,Milieu,0
+7478,Álex Berenguer,Alejandro Berenguer Remiro,Spain,Right Midfield,Milieu,0
+35473,Unai Vencedor,Unai Vencedor Paris,Spain,Left Defensive Midfield,Milieu,0
+47226,Jon Morcillo,Jon Morcillo Conesa,Spain,Left Center Forward,Attaquant,0
+30760,Borja Sainz,Borja Sainz Eguskiza,Spain,Left Center Forward,Attaquant,0
+3417,Saidy Janko,Saidy Janko,Gambia,Right Wing Back,Défenseur,0
+6872,Bruno González,Bruno González Cabrera,Spain,Right Center Back,Défenseur,0
+6718,Sergio Escudero,Sergio Escudero Palomo,Spain,Left Back,Défenseur,0
+7006,Papu Gómez,Alejandro Darío Gómez,Argentina,Right Wing,Attaquant,0
+8572,Karim Rekik,Karim Rekik,Netherlands,Left Center Back,Défenseur,0
+6830,Facundo Roncaglia,Facundo Sebastián Roncaglia,Argentina,Left Back,Défenseur,0
+23949,Unai García,Unai García Lugea,Spain,Right Center Back,Défenseur,0
+24172,Juan Cruz,Álvaro Juan Cruz Armada,Spain,Left Midfield,Milieu,0
+23970,José Mari,José María Martín-Bejarano Serrano,Spain,Right Center Midfield,Milieu,0
+23973,Salvi,Salvador Sánchez Ponce,Spain,Right Midfield,Milieu,0
+24712,Jon Garrido,Jon Ander Garrido Moracia,Spain,Center Defensive Midfield,Milieu,0
+5691,Johan Mojica,Johan Andrés Mojica Palacio,Colombia,Left Wing Back,Défenseur,0
+6663,Antonio Barragán,Antonio Barragán Fernández,Spain,Right Center Back,Défenseur,0
+7064,Lucas Boyé,Lucas Ariel Boyé,Argentina,Center Forward,Attaquant,0
+7897,Cifu,Miguel Ángel Garrido Cifuentes,Spain,Right Wing Back,Défenseur,0
+9857,Josema Sánchez,José Manuel Sánchez Guillén,Spain,Left Center Back,Défenseur,0
+12072,Pere Milla,Pere Milla Peña,Spain,Right Wing,Attaquant,0
+15880,Emiliano Rigoni,Emiliano Ariel Rigoni,Argentina,Left Wing,Attaquant,0
+18783,Omenuke Mfulu,Omenuke Mfulu,"Congo, (Kinshasa)",Left Center Midfield,Milieu,0
+23825,Fidel,Fidel Chaves de la Torre,Spain,Left Wing,Attaquant,0
+24165,Edgar Badía,Edgar Badía Guardiola,Spain,Goalkeeper,Gardien,0
+24166,Nino,Juan Francisco Martínez Modesto,Spain,Right Wing,Attaquant,0
+24169,Gonzalo Verdú,Gonzalo Cacicedo Verdú,Spain,Center Back,Défenseur,0
+24251,Tete Morente,José Antonio Morente Oliva,Spain,Right Wing Back,Défenseur,0
+24517,Raúl Guti,José Raúl Gutiérrez Parejo,Spain,Right Center Midfield,Milieu,0
+34323,Luismi Sánchez,Luis Miguel Sánchez Benítez,Spain,Left Center Midfield,Milieu,0
+3721,Étienne Capoue,Etienne Capoue,France,Right Center Midfield,Milieu,0
+21081,Juan Foyth,Juan Marcos Foyth,Argentina,Right Back,Défenseur,0
+50494,Yeremi Pino,Yeremi Jesús Pino Santos,Spain,Right Midfield,Milieu,0
+4691,Claudio Bravo,Claudio Andrés Bravo Muñoz,Chile,Goalkeeper,Gardien,0
+6880,Antonio Sanabria,Arnaldo Antonio Sanabria Ayala,Paraguay,Center Forward,Attaquant,0

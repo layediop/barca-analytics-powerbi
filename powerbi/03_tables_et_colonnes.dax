@@ -1,0 +1,70 @@
+// =====================================================================
+//  BARÇA ANALYTICS – TABLE DE DATES & COLONNES CALCULÉES
+// =====================================================================
+
+// ---------------------------------------------------------------------
+// Table calculée : DimDate   (Modélisation > Nouvelle table)
+// Puis : clic droit sur DimDate > Marquer comme table de dates > colonne Date
+// ---------------------------------------------------------------------
+DimDate =
+VAR _debut = DATE ( YEAR ( MIN ( DimMatch[match_date] ) ), 1, 1 )
+VAR _fin   = DATE ( YEAR ( MAX ( DimMatch[match_date] ) ), 12, 31 )
+RETURN
+    ADDCOLUMNS (
+        CALENDAR ( _debut, _fin ),
+        "Année", YEAR ( [Date] ),
+        "Mois n°", MONTH ( [Date] ),
+        "Mois", FORMAT ( [Date], "mmm" ),
+        "Année-Mois", FORMAT ( [Date], "yyyy-mm" ),
+        "Jour semaine n°", WEEKDAY ( [Date], 2 ),
+        "Jour semaine", FORMAT ( [Date], "dddd" ),
+        // Une saison démarre en août. Seuil à août (et non juillet) car la saison
+        // 2019/20 a été prolongée jusqu'au 19 juillet 2020 à cause du Covid.
+        "Saison",
+            VAR _a = YEAR ( [Date] )
+            RETURN
+                IF (
+                    MONTH ( [Date] ) >= 8,
+                    _a & "/" & RIGHT ( _a + 1, 2 ),
+                    ( _a - 1 ) & "/" & RIGHT ( _a, 2 )
+                )
+    )
+// Tri : colonne « Mois » triée par « Mois n° », « Jour semaine » par « Jour semaine n° ».
+
+
+// ---------------------------------------------------------------------
+// Colonnes calculées utiles (clic droit sur la table > Nouvelle colonne)
+// ---------------------------------------------------------------------
+
+// Dans FactShots : catégorie de qualité d'occasion, pour un histogramme lisible
+FactShots[Qualité occasion] =
+SWITCH (
+    TRUE (),
+    FactShots[xg] >= 0.30, "Grosse occasion (≥ 0,30 xG)",
+    FactShots[xg] >= 0.10, "Occasion moyenne (0,10–0,30)",
+    "Occasion faible (< 0,10)"
+)
+
+// Dans FactShots : ordre de tri de la colonne précédente
+FactShots[Qualité occasion tri] =
+SWITCH ( TRUE (), FactShots[xg] >= 0.30, 1, FactShots[xg] >= 0.10, 2, 3 )
+
+// Dans DimPlayer : libellé pour les segments (nom + poste)
+DimPlayer[Joueur (poste)] =
+DimPlayer[player_name] & " · " & DimPlayer[position_group]
+
+// Dans DimMatch : ordre de tri du libellé de match (trier match_label par celle-ci)
+DimMatch[match_order] =
+RANKX ( DimMatch, DimMatch[match_date], , ASC, DENSE )
+
+// Dans DimMatch : rang chronologique du match DANS sa saison.
+// Indispensable pour l'axe des « Points cumulés » : les numéros de journée
+// (matchweek) ne suivent pas la chronologie à cause des matchs reportés
+// (ex. 2020/21 : la J1 contre Elche a été jouée en février 2021).
+DimMatch[Match n°] =
+VAR _saison = DimMatch[season]
+RETURN
+    RANKX (
+        FILTER ( DimMatch, DimMatch[season] = _saison ),
+        DimMatch[match_date], , ASC, DENSE
+    )

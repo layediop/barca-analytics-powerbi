@@ -1,0 +1,43 @@
+{
+  "name": "Barça Analytics",
+  "dataColors": ["#1F5FAD", "#B0124F", "#C99400", "#2A9D8F", "#6E7781", "#8E5BD0"],
+  "background": "#FCFCFB",
+  "foreground": "#1B1F24",
+  "tableAccent": "#1F5FAD",
+  "good": "#1A7F37",
+  "neutral": "#9A6700",
+  "bad": "#CF222E",
+  "maximum": "#0B3D7A",
+  "center": "#DCE6F2",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1B1F24" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#1B1F24" },
+    "label":  { "fontFace": "Segoe UI", "fontSize": 10, "color": "#57606A" },
+    "callout":{ "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#1B1F24" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E4E7EB" } }, "radius": 8 }],
+        "dropShadow": [{ "show": false }],
+        "visualHeader": [{ "show": true }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#1B1F24" } }, "fontSize": 12 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F4F6" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F3F4F6" } } }]
+      }
+    },
+    "lineChart": { "*": { "lineStyles": [{ "strokeWidth": 2 }] } },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#1B1F24" } }, "fontSize": 26 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#57606A" } }, "fontSize": 10 }]
+      }
+    }
+  }
+}

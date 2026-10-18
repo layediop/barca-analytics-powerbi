@@ -1,0 +1,103 @@
+﻿match_id,match_date,kick_off,season,matchweek,opponent_id,opponent_name,venue,stadium,referee,barca_manager,opponent_manager,goals_for,goals_against,result,points,score_label,result_code,match_label
+15946,2018-08-18,22:15,2018/19,1,206,Deportivo Alavés,Domicile,Spotify Camp Nou,José María Sánchez Martínez,Ernesto Valverde,Abelardo,3,0,Victoire,3,3-0,V,2018/19 J1 · Deportivo Alavés (D) 3-0
+15956,2018-08-25,22:15,2018/19,2,901,Real Valladolid,Extérieur,Estadio Municipal José Zorrilla,Ricardo De Burgos Bengoetxea,Ernesto Valverde,Sergio,1,0,Victoire,3,1-0,V,2018/19 J2 · Real Valladolid (E) 1-0
+15973,2018-09-02,18:30,2018/19,3,902,Huesca,Domicile,Spotify Camp Nou,Mario Melero López,Ernesto Valverde,Leo Franco,8,2,Victoire,3,8-2,V,2018/19 J3 · Huesca (D) 8-2
+15978,2018-09-15,16:15,2018/19,4,210,Real Sociedad,Extérieur,Reale Arena,Carlos del Cerro Grande,Ernesto Valverde,Asier Garitano,2,1,Victoire,3,2-1,V,2018/19 J4 · Real Sociedad (E) 2-1
+15986,2018-09-23,20:45,2018/19,5,211,Girona,Domicile,Spotify Camp Nou,Jesús Gil Manzano,Ernesto Valverde,Eusebio Sacristán,2,2,Nul,1,2-2,N,2018/19 J5 · Girona (D) 2-2
+15998,2018-09-26,20:00,2018/19,6,205,Leganés,Extérieur,Estadio Municipal de Butarque,Alberto Undiano Mallenco,Ernesto Valverde,Mauricio Pellegrino,1,2,Défaite,0,1-2,D,2018/19 J6 · Leganés (E) 1-2
+16010,2018-09-29,16:15,2018/19,7,215,Athletic Club,Domicile,Spotify Camp Nou,,Ernesto Valverde,Eduardo Berizzo,1,1,Nul,1,1-1,N,2018/19 J7 · Athletic Club (D) 1-1
+16023,2018-10-07,20:45,2018/19,8,207,Valencia,Extérieur,Estadio de Mestalla,José Luis González González,Ernesto Valverde,Marcelino,1,1,Nul,1,1-1,N,2018/19 J8 · Valencia (E) 1-1
+16029,2018-10-20,20:45,2018/19,9,213,Sevilla,Domicile,Spotify Camp Nou,,Ernesto Valverde,Pablo Machín,4,2,Victoire,3,4-2,V,2018/19 J9 · Sevilla (D) 4-2
+16056,2018-11-11,16:15,2018/19,12,218,Real Betis,Domicile,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Ernesto Valverde,Quique Setién,3,4,Défaite,0,3-4,D,2018/19 J12 · Real Betis (D) 3-4
+16073,2018-11-24,20:45,2018/19,13,212,Atlético Madrid,Extérieur,Estádio Cívitas Metropolitano,Jesús Gil Manzano,Ernesto Valverde,Diego Simeone,1,1,Nul,1,1-1,N,2018/19 J13 · Atlético Madrid (E) 1-1
+16079,2018-12-02,18:30,2018/19,14,222,Villarreal,Domicile,Spotify Camp Nou,José Luis Munuera Montero,Ernesto Valverde,Javi Calleja,2,0,Victoire,3,2-0,V,2018/19 J14 · Villarreal (D) 2-0
+16086,2018-12-08,20:45,2018/19,15,214,Espanyol,Extérieur,Stage Front Stadium,,Ernesto Valverde,Rubí,4,0,Victoire,3,4-0,V,2018/19 J15 · Espanyol (E) 4-0
+16095,2018-12-16,20:45,2018/19,16,221,Levante UD,Extérieur,Estadio Ciudad de Valencia,José Luis González González,Ernesto Valverde,Paco López,5,0,Victoire,3,5-0,V,2018/19 J16 · Levante UD (E) 5-0
+16109,2018-12-22,18:30,2018/19,17,209,Celta Vigo,Domicile,Spotify Camp Nou,Eduardo Prieto Iglesias,Ernesto Valverde,Miguel Cardoso,2,0,Victoire,3,2-0,V,2018/19 J17 · Celta Vigo (D) 2-0
+16120,2019-01-06,20:45,2018/19,18,216,Getafe,Extérieur,Coliseum Alfonso Pérez,,Ernesto Valverde,Pepe Bordalás,2,1,Victoire,3,2-1,V,2018/19 J18 · Getafe (E) 2-1
+16131,2019-01-13,18:30,2018/19,19,322,Eibar,Domicile,Spotify Camp Nou,Jesús Gil Manzano,Ernesto Valverde,José Luis Mendilibar,3,0,Victoire,3,3-0,V,2018/19 J19 · Eibar (D) 3-0
+16136,2019-01-20,20:45,2018/19,20,205,Leganés,Domicile,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Ernesto Valverde,Mauricio Pellegrino,3,1,Victoire,3,3-1,V,2018/19 J20 · Leganés (D) 3-1
+16149,2019-01-27,16:15,2018/19,21,211,Girona,Extérieur,Estadi Municipal de Montilivi,Pablo González Fuertes,Ernesto Valverde,Eusebio Sacristán,2,0,Victoire,3,2-0,V,2018/19 J21 · Girona (E) 2-0
+16157,2019-02-02,18:30,2018/19,22,207,Valencia,Domicile,Spotify Camp Nou,Alberto Undiano Mallenco,Ernesto Valverde,Marcelino,2,2,Nul,1,2-2,N,2018/19 J22 · Valencia (D) 2-2
+16173,2019-02-10,20:45,2018/19,23,215,Athletic Club,Extérieur,San Mamés Barria,Carlos del Cerro Grande,Ernesto Valverde,Gaizka Garitano,0,0,Nul,1,0-0,N,2018/19 J23 · Athletic Club (E) 0-0
+16182,2019-02-16,20:45,2018/19,24,901,Real Valladolid,Domicile,Spotify Camp Nou,,Ernesto Valverde,Sergio,1,0,Victoire,3,1-0,V,2018/19 J24 · Real Valladolid (D) 1-0
+16190,2019-02-23,16:15,2018/19,25,213,Sevilla,Extérieur,Estadio Ramón Sánchez Pizjuán,Antonio Miguel Mateu Lahoz,Ernesto Valverde,Pablo Machín,4,2,Victoire,3,4-2,V,2018/19 J25 · Sevilla (E) 4-2
+16196,2019-03-02,20:45,2018/19,26,220,Real Madrid,Extérieur,Bernabéu,Alberto Undiano Mallenco,Ernesto Valverde,Santiago Solari,1,0,Victoire,3,1-0,V,2018/19 J26 · Real Madrid (E) 1-0
+16205,2019-03-09,18:30,2018/19,27,360,Rayo Vallecano,Domicile,Spotify Camp Nou,,Ernesto Valverde,Míchel,3,1,Victoire,3,3-1,V,2018/19 J27 · Rayo Vallecano (D) 3-1
+16215,2019-03-17,20:45,2018/19,28,218,Real Betis,Extérieur,Estadio Benito Villamarín,,Ernesto Valverde,Quique Setién,4,1,Victoire,3,4-1,V,2018/19 J28 · Real Betis (E) 4-1
+16231,2019-03-30,16:15,2018/19,29,214,Espanyol,Domicile,Spotify Camp Nou,,Ernesto Valverde,Rubí,2,0,Victoire,3,2-0,V,2018/19 J29 · Espanyol (D) 2-0
+16240,2019-04-02,21:30,2018/19,30,222,Villarreal,Extérieur,Estadio de la Cerámica,,Ernesto Valverde,Javi Calleja,4,4,Nul,1,4-4,N,2018/19 J30 · Villarreal (E) 4-4
+16248,2019-04-06,20:45,2018/19,31,212,Atlético Madrid,Domicile,Spotify Camp Nou,Jesús Gil Manzano,Ernesto Valverde,Diego Simeone,2,0,Victoire,3,2-0,V,2018/19 J31 · Atlético Madrid (D) 2-0
+16265,2019-04-20,20:45,2018/19,33,210,Real Sociedad,Domicile,Spotify Camp Nou,,Ernesto Valverde,Imanol Alguacil,2,1,Victoire,3,2-1,V,2018/19 J33 · Real Sociedad (D) 2-1
+16275,2019-04-23,21:30,2018/19,34,206,Deportivo Alavés,Extérieur,Estadio de Mendizorroza,,Ernesto Valverde,Abelardo,2,0,Victoire,3,2-0,V,2018/19 J34 · Deportivo Alavés (E) 2-0
+16289,2019-04-27,20:45,2018/19,35,221,Levante UD,Domicile,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Ernesto Valverde,Paco López,1,0,Victoire,3,1-0,V,2018/19 J35 · Levante UD (D) 1-0
+16306,2019-05-12,18:30,2018/19,37,216,Getafe,Domicile,Spotify Camp Nou,José Luis González González,Ernesto Valverde,"Nacho Fernández, Pepe Bordalás",2,0,Victoire,3,2-0,V,2018/19 J37 · Getafe (D) 2-0
+16317,2019-05-19,16:15,2018/19,38,322,Eibar,Extérieur,Estadio Municipal de Ipurúa,,Ernesto Valverde,José Luis Mendilibar,2,2,Nul,1,2-2,N,2018/19 J38 · Eibar (E) 2-2
+303666,2019-09-21,21:00,2019/20,5,1049,Granada,Extérieur,Estadio Nuevo Los Cármenes,,Ernesto Valverde,Diego Martínez Penas,0,2,Défaite,0,0-2,D,2019/20 J5 · Granada (E) 0-2
+303430,2019-09-24,21:00,2019/20,6,222,Villarreal,Domicile,Spotify Camp Nou,,Ernesto Valverde,Javi Calleja,2,1,Victoire,3,2-1,V,2019/20 J6 · Villarreal (D) 2-1
+303473,2019-10-06,21:00,2019/20,8,213,Sevilla,Domicile,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Ernesto Valverde,Julen Lopetegui,4,0,Victoire,3,4-0,V,2019/20 J8 · Sevilla (D) 4-0
+303700,2019-10-19,13:00,2019/20,9,322,Eibar,Extérieur,Estadio Municipal de Ipurúa,,Ernesto Valverde,José Luis Mendilibar,3,0,Victoire,3,3-0,V,2019/20 J9 · Eibar (E) 3-0
+303600,2019-10-29,21:15,2019/20,11,901,Real Valladolid,Domicile,Spotify Camp Nou,,Ernesto Valverde,Sergio,5,1,Victoire,3,5-1,V,2019/20 J11 · Real Valladolid (D) 5-1
+303504,2019-11-02,16:00,2019/20,12,221,Levante UD,Extérieur,Estadio Ciudad de Valencia,,Ernesto Valverde,Paco López,1,3,Défaite,0,1-3,D,2019/20 J12 · Levante UD (E) 1-3
+303487,2019-11-09,21:00,2019/20,13,209,Celta Vigo,Domicile,Spotify Camp Nou,,Ernesto Valverde,Óscar García,4,1,Victoire,3,4-1,V,2019/20 J13 · Celta Vigo (D) 4-1
+303715,2019-11-23,13:00,2019/20,14,205,Leganés,Extérieur,Estadio Municipal de Butarque,,Ernesto Valverde,Javier Aguirre,2,1,Victoire,3,2-1,V,2019/20 J14 · Leganés (E) 2-1
+303524,2019-12-01,21:00,2019/20,15,212,Atlético Madrid,Extérieur,Estádio Cívitas Metropolitano,Antonio Miguel Mateu Lahoz,Ernesto Valverde,Diego Simeone,1,0,Victoire,3,1-0,V,2019/20 J15 · Atlético Madrid (E) 1-0
+303451,2019-12-07,21:00,2019/20,16,1043,Mallorca,Domicile,Spotify Camp Nou,,Ernesto Valverde,Vicente Moreno,5,2,Victoire,3,5-2,V,2019/20 J16 · Mallorca (D) 5-2
+303664,2019-12-14,16:00,2019/20,17,210,Real Sociedad,Extérieur,Reale Arena,,Ernesto Valverde,Imanol Alguacil,2,2,Nul,1,2-2,N,2019/20 J17 · Real Sociedad (E) 2-2
+303596,2019-12-18,20:00,2019/20,10,220,Real Madrid,Domicile,Spotify Camp Nou,,Ernesto Valverde,Zinédine Zidane,0,0,Nul,1,0-0,N,2019/20 J10 · Real Madrid (D) 0-0
+303517,2019-12-21,16:00,2019/20,18,206,Deportivo Alavés,Domicile,Spotify Camp Nou,,Ernesto Valverde,Asier Garitano,4,1,Victoire,3,4-1,V,2019/20 J18 · Deportivo Alavés (D) 4-1
+303652,2020-01-04,21:00,2019/20,19,214,Espanyol,Extérieur,Stage Front Stadium,,Ernesto Valverde,Abelardo,2,2,Nul,1,2-2,N,2019/20 J19 · Espanyol (E) 2-2
+303610,2020-01-19,21:00,2019/20,20,1049,Granada,Domicile,Spotify Camp Nou,,Quique Setién,Diego Martínez Penas,1,0,Victoire,3,1-0,V,2019/20 J20 · Granada (D) 1-0
+303400,2020-01-25,16:00,2019/20,21,207,Valencia,Extérieur,Estadio de Mestalla,Jesús Gil Manzano,Quique Setién,Albert Celades,0,2,Défaite,0,0-2,D,2019/20 J21 · Valencia (E) 0-2
+303682,2020-02-02,21:00,2019/20,22,221,Levante UD,Domicile,Spotify Camp Nou,,Quique Setién,Paco López,2,1,Victoire,3,2-1,V,2019/20 J22 · Levante UD (D) 2-1
+303707,2020-02-09,21:00,2019/20,23,218,Real Betis,Extérieur,Estadio Benito Villamarín,,Quique Setién,Rubí,3,2,Victoire,3,3-2,V,2019/20 J23 · Real Betis (E) 3-2
+303377,2020-02-15,16:00,2019/20,24,216,Getafe,Domicile,Spotify Camp Nou,,Quique Setién,Pepe Bordalás,2,1,Victoire,3,2-1,V,2019/20 J24 · Getafe (D) 2-1
+303731,2020-02-22,16:00,2019/20,25,322,Eibar,Domicile,Spotify Camp Nou,,Quique Setién,José Luis Mendilibar,5,0,Victoire,3,5-0,V,2019/20 J25 · Eibar (D) 5-0
+303470,2020-03-01,21:00,2019/20,26,220,Real Madrid,Extérieur,Bernabéu,Antonio Miguel Mateu Lahoz,Quique Setién,Zinédine Zidane,0,2,Défaite,0,0-2,D,2019/20 J26 · Real Madrid (E) 0-2
+303479,2020-03-07,18:30,2019/20,27,210,Real Sociedad,Domicile,Spotify Camp Nou,,Quique Setién,Imanol Alguacil,1,0,Victoire,3,1-0,V,2019/20 J27 · Real Sociedad (D) 1-0
+303548,2020-06-13,22:00,2019/20,28,1043,Mallorca,Extérieur,Visit Mallorca Estadi,,Quique Setién,Vicente Moreno,4,0,Victoire,3,4-0,V,2019/20 J28 · Mallorca (E) 4-0
+303532,2020-06-16,22:00,2019/20,29,205,Leganés,Domicile,Spotify Camp Nou,,Quique Setién,Javier Aguirre,2,0,Victoire,3,2-0,V,2019/20 J29 · Leganés (D) 2-0
+303674,2020-06-19,22:00,2019/20,30,213,Sevilla,Extérieur,Estadio Ramón Sánchez Pizjuán,José Luis González González,Quique Setién,Julen Lopetegui,0,0,Nul,1,0-0,N,2019/20 J30 · Sevilla (E) 0-0
+303493,2020-06-23,22:00,2019/20,31,215,Athletic Club,Domicile,Spotify Camp Nou,Jesús Gil Manzano,Quique Setién,Gaizka Garitano,1,0,Victoire,3,1-0,V,2019/20 J31 · Athletic Club (D) 1-0
+303516,2020-06-27,17:00,2019/20,32,209,Celta Vigo,Extérieur,Abanca-Balaídos,,Quique Setién,Óscar García,2,2,Nul,1,2-2,N,2019/20 J32 · Celta Vigo (E) 2-2
+303696,2020-06-30,22:00,2019/20,33,212,Atlético Madrid,Domicile,Spotify Camp Nou,,Quique Setién,Diego Simeone,2,2,Nul,1,2-2,N,2019/20 J33 · Atlético Madrid (D) 2-2
+303725,2020-07-05,22:00,2019/20,34,222,Villarreal,Extérieur,Estadio de la Cerámica,,Quique Setién,Javi Calleja,4,1,Victoire,3,4-1,V,2019/20 J34 · Villarreal (E) 4-1
+303615,2020-07-08,22:00,2019/20,35,214,Espanyol,Domicile,Spotify Camp Nou,,Quique Setién,Francisco Rufete,1,0,Victoire,3,1-0,V,2019/20 J35 · Espanyol (D) 1-0
+303680,2020-07-11,19:30,2019/20,36,901,Real Valladolid,Extérieur,Estadio Municipal José Zorrilla,Antonio Miguel Mateu Lahoz,Quique Setién,Sergio,1,0,Victoire,3,1-0,V,2019/20 J36 · Real Valladolid (E) 1-0
+303634,2020-07-16,21:00,2019/20,37,422,Osasuna,Domicile,Spotify Camp Nou,,Quique Setién,Jagoba Arrasate,1,2,Défaite,0,1-2,D,2019/20 J37 · Osasuna (D) 1-2
+303421,2020-07-19,17:00,2019/20,38,206,Deportivo Alavés,Extérieur,Estadio de Mendizorroza,,Quique Setién,Juan Muñiz,5,0,Victoire,3,5-0,V,2019/20 J38 · Deportivo Alavés (E) 5-0
+3773593,2020-09-27,21:00,2020/21,3,222,Villarreal,Domicile,Spotify Camp Nou,Guillermo Cuadra Fernández,Ronald Koeman,Unai Emery,4,0,Victoire,3,4-0,V,2020/21 J3 · Villarreal (D) 4-0
+3773466,2020-10-01,21:30,2020/21,4,209,Celta Vigo,Extérieur,Abanca-Balaídos,Carlos del Cerro Grande,Ronald Koeman,Óscar García,3,0,Victoire,3,3-0,V,2020/21 J4 · Celta Vigo (E) 3-0
+3773672,2020-10-04,21:00,2020/21,5,213,Sevilla,Domicile,Spotify Camp Nou,Jesús Gil Manzano,Ronald Koeman,Julen Lopetegui,1,1,Nul,1,1-1,N,2020/21 J5 · Sevilla (D) 1-1
+3773587,2020-10-17,21:00,2020/21,6,216,Getafe,Extérieur,Coliseum Alfonso Pérez,César Soto Grado,Ronald Koeman,Pepe Bordalás,0,1,Défaite,0,0-1,D,2020/21 J6 · Getafe (E) 0-1
+3773585,2020-10-24,16:00,2020/21,7,220,Real Madrid,Domicile,Spotify Camp Nou,Juan Martínez Munuera,Ronald Koeman,Zinédine Zidane,1,3,Défaite,0,1-3,D,2020/21 J7 · Real Madrid (D) 1-3
+3773386,2020-10-31,21:00,2020/21,8,206,Deportivo Alavés,Extérieur,Estadio de Mendizorroza,,Ronald Koeman,Pablo Machín,1,1,Nul,1,1-1,N,2020/21 J8 · Deportivo Alavés (E) 1-1
+3773477,2020-11-07,16:15,2020/21,9,218,Real Betis,Domicile,Spotify Camp Nou,,Ronald Koeman,Manuel Pellegrini,5,2,Victoire,3,5-2,V,2020/21 J9 · Real Betis (D) 5-2
+3773656,2020-11-21,21:00,2020/21,10,212,Atlético Madrid,Extérieur,Estádio Cívitas Metropolitano,,Ronald Koeman,Diego Simeone,0,1,Défaite,0,0-1,D,2020/21 J10 · Atlético Madrid (E) 0-1
+3773547,2020-11-29,14:00,2020/21,11,422,Osasuna,Domicile,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Ronald Koeman,Jagoba Arrasate,4,0,Victoire,3,4-0,V,2020/21 J11 · Osasuna (D) 4-0
+3773428,2020-12-05,21:00,2020/21,12,552,Cádiz,Extérieur,Estadio Nuevo Mirandilla,César Soto Grado,Ronald Koeman,Álvaro Cervera,1,2,Défaite,0,1-2,D,2020/21 J12 · Cádiz (E) 1-2
+3773660,2020-12-13,21:00,2020/21,13,221,Levante UD,Domicile,Spotify Camp Nou,Ricardo De Burgos Bengoetxea,Ronald Koeman,Paco López,1,0,Victoire,3,1-0,V,2020/21 J13 · Levante UD (D) 1-0
+3773523,2020-12-16,21:00,2020/21,19,210,Real Sociedad,Domicile,Spotify Camp Nou,José María Sánchez Martínez,Ronald Koeman,Imanol Alguacil,2,1,Victoire,3,2-1,V,2020/21 J19 · Real Sociedad (D) 2-1
+3773377,2020-12-19,16:15,2020/21,14,207,Valencia,Domicile,Spotify Camp Nou,Alejandro José Hernández Hernández,Ronald Koeman,Javi Gracia,2,2,Nul,1,2-2,N,2020/21 J14 · Valencia (D) 2-2
+3773571,2020-12-22,22:00,2020/21,15,901,Real Valladolid,Extérieur,Estadio Municipal José Zorrilla,Mario Melero López,Ronald Koeman,Sergio,3,0,Victoire,3,3-0,V,2020/21 J15 · Real Valladolid (E) 3-0
+3773552,2021-01-03,21:00,2020/21,17,902,Huesca,Extérieur,Estadio El Alcoraz,Guillermo Cuadra Fernández,Ronald Koeman,Míchel,1,0,Victoire,3,1-0,V,2020/21 J17 · Huesca (E) 1-0
+3764661,2021-01-06,21:00,2020/21,2,215,Athletic Club,Extérieur,San Mamés Barria,Carlos del Cerro Grande,Ronald Koeman,Marcelino,3,2,Victoire,3,3-2,V,2020/21 J2 · Athletic Club (E) 3-2
+3773565,2021-01-09,18:30,2020/21,18,1049,Granada,Extérieur,Estadio Nuevo Los Cármenes,Ricardo De Burgos Bengoetxea,Ronald Koeman,Diego Martínez Penas,4,0,Victoire,3,4-0,V,2020/21 J18 · Granada (E) 4-0
+3773403,2021-01-31,21:00,2020/21,21,215,Athletic Club,Domicile,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Ronald Koeman,Marcelino,2,1,Victoire,3,2-1,V,2020/21 J21 · Athletic Club (D) 2-1
+3773631,2021-02-07,21:00,2020/21,22,218,Real Betis,Extérieur,Estadio Benito Villamarín,,Ronald Koeman,Manuel Pellegrini,3,2,Victoire,3,3-2,V,2020/21 J22 · Real Betis (E) 3-2
+3773526,2021-02-13,21:00,2020/21,23,206,Deportivo Alavés,Domicile,Spotify Camp Nou,Jorge Figueroa Vázquez,Ronald Koeman,Abelardo,5,1,Victoire,3,5-1,V,2020/21 J23 · Deportivo Alavés (D) 5-1
+3773415,2021-02-21,14:00,2020/21,24,552,Cádiz,Domicile,Spotify Camp Nou,Juan Martínez Munuera,Ronald Koeman,Álvaro Cervera,1,1,Nul,1,1-1,N,2020/21 J24 · Cádiz (D) 1-1
+3764440,2021-02-24,19:00,2020/21,1,1042,Elche,Domicile,Spotify Camp Nou,Isidro Díaz de Mera Escuderos,Ronald Koeman,Fran Escribá,3,0,Victoire,3,3-0,V,2020/21 J1 · Elche (D) 3-0
+3773625,2021-02-27,16:15,2020/21,25,213,Sevilla,Extérieur,Estadio Ramón Sánchez Pizjuán,Alejandro José Hernández Hernández,Ronald Koeman,Julen Lopetegui,2,0,Victoire,3,2-0,V,2020/21 J25 · Sevilla (E) 2-0
+3773665,2021-03-06,21:00,2020/21,26,422,Osasuna,Extérieur,Estadio El Sadar,Guillermo Cuadra Fernández,Ronald Koeman,Jagoba Arrasate,2,0,Victoire,3,2-0,V,2020/21 J26 · Osasuna (E) 2-0
+3773369,2021-03-15,21:00,2020/21,27,902,Huesca,Domicile,Spotify Camp Nou,Adrián Cordero Vega,Ronald Koeman,Pacheta,4,1,Victoire,3,4-1,V,2020/21 J27 · Huesca (D) 4-1
+3773597,2021-03-21,21:00,2020/21,28,210,Real Sociedad,Extérieur,Reale Arena,José Luis Munuera Montero,Ronald Koeman,Imanol Alguacil,6,1,Victoire,3,6-1,V,2020/21 J28 · Real Sociedad (E) 6-1
+3773474,2021-04-05,21:00,2020/21,29,901,Real Valladolid,Domicile,Spotify Camp Nou,Santiago Jaime Latre,Ronald Koeman,Sergio,1,0,Victoire,3,1-0,V,2020/21 J29 · Real Valladolid (D) 1-0
+3773497,2021-04-10,21:00,2020/21,30,220,Real Madrid,Extérieur,Estadio Alfredo Di Stéfano,Jesús Gil Manzano,Ronald Koeman,Zinédine Zidane,1,2,Défaite,0,1-2,D,2020/21 J30 · Real Madrid (E) 1-2
+3773661,2021-04-22,22:00,2020/21,31,216,Getafe,Domicile,Spotify Camp Nou,Jorge Figueroa Vázquez,Ronald Koeman,Pepe Bordalás,5,2,Victoire,3,5-2,V,2020/21 J31 · Getafe (D) 5-2
+3773689,2021-04-25,16:15,2020/21,32,222,Villarreal,Extérieur,Estadio de la Cerámica,Carlos del Cerro Grande,Ronald Koeman,Unai Emery,2,1,Victoire,3,2-1,V,2020/21 J32 · Villarreal (E) 2-1
+3773586,2021-04-29,19:00,2020/21,33,1049,Granada,Domicile,Spotify Camp Nou,Pablo González Fuertes,Ronald Koeman,Diego Martínez Penas,1,2,Défaite,0,1-2,D,2020/21 J33 · Granada (D) 1-2
+3773695,2021-05-02,21:00,2020/21,34,207,Valencia,Extérieur,Estadio de Mestalla,José María Sánchez Martínez,Ronald Koeman,Javi Gracia,3,2,Victoire,3,3-2,V,2020/21 J34 · Valencia (E) 3-2
+3773372,2021-05-08,16:15,2020/21,35,212,Atlético Madrid,Domicile,Spotify Camp Nou,Antonio Miguel Mateu Lahoz,Ronald Koeman,Diego Simeone,0,0,Nul,1,0-0,N,2020/21 J35 · Atlético Madrid (D) 0-0
+3773387,2021-05-11,22:00,2020/21,36,221,Levante UD,Extérieur,Estadio Ciudad de Valencia,José Luis Munuera Montero,Ronald Koeman,Paco López,3,3,Nul,1,3-3,N,2020/21 J36 · Levante UD (E) 3-3
+3773457,2021-05-16,18:30,2020/21,37,209,Celta Vigo,Domicile,Spotify Camp Nou,,Ronald Koeman,Eduardo Coudet,1,2,Défaite,0,1-2,D,2020/21 J37 · Celta Vigo (D) 1-2
