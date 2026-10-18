@@ -1,0 +1,333 @@
+createOrReplace
+
+	ref table _Mesures
+
+		measure 'Matchs joués' = COUNTROWS ( DimMatch )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Victoires' = CALCULATE ( [Matchs joués], KEEPFILTERS ( DimMatch[result] = "Victoire" ) )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Nuls' = CALCULATE ( [Matchs joués], KEEPFILTERS ( DimMatch[result] = "Nul" ) )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Défaites' = CALCULATE ( [Matchs joués], KEEPFILTERS ( DimMatch[result] = "Défaite" ) )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure '% Victoires' = DIVIDE ( [Victoires], [Matchs joués] )
+			formatString: 0%
+			displayFolder: 1. Résultats
+
+		measure 'Points' = SUM ( DimMatch[points] )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Points par match' = DIVIDE ( [Points], [Matchs joués] )
+			formatString: 0.00
+			displayFolder: 1. Résultats
+
+		measure 'Buts marqués' = SUM ( DimMatch[goals_for] )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Buts encaissés' = SUM ( DimMatch[goals_against] )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Différence de buts' = [Buts marqués] - [Buts encaissés]
+			formatString: +0;-0;0
+			displayFolder: 1. Résultats
+
+		measure 'Clean sheets' = CALCULATE ( [Matchs joués], KEEPFILTERS ( DimMatch[goals_against] = 0 ) )
+			formatString: 0
+			displayFolder: 1. Résultats
+
+		measure 'Tirs' = CALCULATE ( COUNTROWS ( FactShots ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 2. Expected Goals
+
+		measure 'Tirs cadrés' = CALCULATE ( SUM ( FactShots[is_on_target] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 2. Expected Goals
+
+		measure 'Buts sur tirs' = CALCULATE ( SUM ( FactShots[is_goal] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 2. Expected Goals
+
+		measure '% Tirs cadrés' = DIVIDE ( [Tirs cadrés], [Tirs] )
+			formatString: 0%
+			displayFolder: 2. Expected Goals
+
+		measure 'Taux de conversion' = DIVIDE ( [Buts sur tirs], [Tirs] )
+			formatString: 0%
+			displayFolder: 2. Expected Goals
+
+		measure 'xG' = CALCULATE ( SUM ( FactShots[xg] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0.0
+			displayFolder: 2. Expected Goals
+
+		measure 'npxG' = CALCULATE ( [xG], KEEPFILTERS ( FactShots[is_penalty] = 0 ) )
+			formatString: 0.0
+			displayFolder: 2. Expected Goals
+
+		measure 'xGA' = CALCULATE ( SUM ( FactShots[xg] ), KEEPFILTERS ( DimTeam[is_barca] = 0 ) )
+			formatString: 0.0
+			displayFolder: 2. Expected Goals
+
+		measure 'Différence xG' = [xG] - [xGA]
+			formatString: +0.0;-0.0;0.0
+			displayFolder: 2. Expected Goals
+
+		measure 'xG par tir' = DIVIDE ( [xG], [Tirs] )
+			formatString: 0.00
+			displayFolder: 2. Expected Goals
+
+		measure 'Buts - xG' = [Buts sur tirs] - [xG]
+			formatString: +0.0;-0.0;0.0
+			displayFolder: 2. Expected Goals
+
+		measure 'xG par match' = DIVIDE ( [xG], [Matchs joués] )
+			formatString: 0.00
+			displayFolder: 2. Expected Goals
+
+		measure 'xGA par match' = DIVIDE ( [xGA], [Matchs joués] )
+			formatString: 0.00
+			displayFolder: 2. Expected Goals
+
+		measure 'Possession moyenne' = CALCULATE ( AVERAGE ( FactTeamMatch[possession_pct] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0%
+			displayFolder: 3. Style de jeu
+
+		measure 'Passes par match' =
+				DIVIDE (
+					CALCULATE ( SUM ( FactTeamMatch[passes] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) ),
+					[Matchs joués]
+				)
+			formatString: 0
+			displayFolder: 3. Style de jeu
+
+		measure 'Précision des passes' =
+				CALCULATE (
+					DIVIDE ( SUM ( FactTeamMatch[passes_completed] ), SUM ( FactTeamMatch[passes] ) ),
+					KEEPFILTERS ( DimTeam[is_barca] = 1 )
+				)
+			formatString: 0%
+			displayFolder: 3. Style de jeu
+
+		measure 'Minutes jouées' = CALCULATE ( SUM ( FactPlayerMatch[minutes] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: #,0
+			displayFolder: 4. Joueurs
+
+		measure 'Matchs disputés' = CALCULATE ( DISTINCTCOUNT ( FactPlayerMatch[match_id] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Titularisations' = CALCULATE ( SUM ( FactPlayerMatch[is_starter] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Buts joueur' = CALCULATE ( SUM ( FactPlayerMatch[goals] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Passes décisives' = CALCULATE ( SUM ( FactPlayerMatch[assists] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Buts + Passes D' = [Buts joueur] + [Passes décisives]
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'xG joueur' = CALCULATE ( SUM ( FactPlayerMatch[xg] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0.0
+			displayFolder: 4. Joueurs
+
+		measure 'npxG joueur' = CALCULATE ( SUM ( FactPlayerMatch[npxg] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0.0
+			displayFolder: 4. Joueurs
+
+		measure 'xA' = CALCULATE ( SUM ( FactPlayerMatch[xa] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0.0
+			displayFolder: 4. Joueurs
+
+		measure 'npxG + xA' = [npxG joueur] + [xA]
+			formatString: 0.0
+			displayFolder: 4. Joueurs
+
+		measure 'Passes clés' = CALCULATE ( SUM ( FactPlayerMatch[key_passes] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Passes progressives' = CALCULATE ( SUM ( FactPlayerMatch[progressive_passes] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Courses progressives' = CALCULATE ( SUM ( FactPlayerMatch[progressive_carries] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Passes dans la surface' = CALCULATE ( SUM ( FactPlayerMatch[passes_into_box] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Précision passes joueur' =
+				CALCULATE (
+					DIVIDE ( SUM ( FactPlayerMatch[passes_completed] ), SUM ( FactPlayerMatch[passes] ) ),
+					KEEPFILTERS ( DimTeam[is_barca] = 1 )
+				)
+			formatString: 0%
+			displayFolder: 4. Joueurs
+
+		measure '% Dribbles réussis' =
+				CALCULATE (
+					DIVIDE ( SUM ( FactPlayerMatch[dribbles_completed] ), SUM ( FactPlayerMatch[dribbles] ) ),
+					KEEPFILTERS ( DimTeam[is_barca] = 1 )
+				)
+			formatString: 0%
+			displayFolder: 4. Joueurs
+
+		measure 'Actions défensives' =
+				CALCULATE (
+					SUM ( FactPlayerMatch[tackles_won] ) + SUM ( FactPlayerMatch[interceptions] )
+						+ SUM ( FactPlayerMatch[ball_recoveries] ),
+					KEEPFILTERS ( DimTeam[is_barca] = 1 )
+				)
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Pressions' = CALCULATE ( SUM ( FactPlayerMatch[pressures] ), KEEPFILTERS ( DimTeam[is_barca] = 1 ) )
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Tirs créés (via relation inactive)' =
+				CALCULATE (
+					COUNTROWS ( FactShots ),
+					USERELATIONSHIP ( FactShots[assist_player_id], DimPlayer[player_id] ),
+					KEEPFILTERS ( DimTeam[is_barca] = 1 )
+				)
+			formatString: 0
+			displayFolder: 4. Joueurs
+
+		measure 'Seuil minutes' = SELECTEDVALUE ( 'Minutes minimum'[Minutes minimum], 900 )
+			formatString: 0
+			displayFolder: 5. Classements
+
+		measure 'Joueur éligible' = IF ( [Minutes jouées] >= [Seuil minutes], 1, 0 )
+			formatString: 0
+			displayFolder: 5. Classements
+
+		measure 'Rang buts' =
+				IF (
+					HASONEVALUE ( DimPlayer[player_id] ),
+					RANKX (
+						FILTER ( ALLSELECTED ( DimPlayer ), [Minutes jouées] >= [Seuil minutes] ),
+						[Buts joueur], , DESC, DENSE
+					)
+				)
+			formatString: 0
+			displayFolder: 5. Classements
+
+		measure 'Rang npxG + xA par 90' =
+				IF (
+					HASONEVALUE ( DimPlayer[player_id] ),
+					RANKX (
+						FILTER ( ALLSELECTED ( DimPlayer ), [Minutes jouées] >= [Seuil minutes] ),
+						DIVIDE ( [npxG + xA] * 90, [Minutes jouées] ), , DESC, DENSE
+					)
+				)
+			formatString: 0
+			displayFolder: 5. Classements
+
+		measure 'Points cumulés' =
+				VAR _date   = MAX ( DimMatch[match_date] )
+				VAR _saison = SELECTEDVALUE ( DimMatch[season] )
+				RETURN
+					IF (
+						NOT ISBLANK ( _saison ),
+						CALCULATE (
+							[Points],
+							REMOVEFILTERS ( DimMatch ),
+							DimMatch[season] = _saison,
+							DimMatch[match_date] <= _date
+						)
+					)
+			formatString: 0
+			displayFolder: 6. Dynamique de saison
+
+		measure 'xG glissant (5 matchs)' =
+				VAR _date   = MAX ( DimMatch[match_date] )
+				VAR _saison = SELECTEDVALUE ( DimMatch[season] )
+				VAR _5derniers =
+					TOPN (
+						5,
+						FILTER (
+							ALL ( DimMatch[match_id], DimMatch[match_date], DimMatch[season] ),
+							DimMatch[match_date] <= _date && DimMatch[season] = _saison
+						),
+						DimMatch[match_date], DESC
+					)
+				RETURN
+					IF (
+						NOT ISBLANK ( _saison ),
+						CALCULATE ( AVERAGEX ( VALUES ( DimMatch[match_id] ), [xG] ), REMOVEFILTERS ( DimMatch ), _5derniers )
+					)
+			formatString: 0.00
+			displayFolder: 6. Dynamique de saison
+
+		measure 'xGA glissant (5 matchs)' =
+				VAR _date   = MAX ( DimMatch[match_date] )
+				VAR _saison = SELECTEDVALUE ( DimMatch[season] )
+				VAR _5derniers =
+					TOPN (
+						5,
+						FILTER (
+							ALL ( DimMatch[match_id], DimMatch[match_date], DimMatch[season] ),
+							DimMatch[match_date] <= _date && DimMatch[season] = _saison
+						),
+						DimMatch[match_date], DESC
+					)
+				RETURN
+					IF (
+						NOT ISBLANK ( _saison ),
+						CALCULATE ( AVERAGEX ( VALUES ( DimMatch[match_id] ), [xGA] ), REMOVEFILTERS ( DimMatch ), _5derniers )
+					)
+			formatString: 0.00
+			displayFolder: 6. Dynamique de saison
+
+		measure 'Forme (5 derniers)' =
+				VAR _date = MAX ( DimMatch[match_date] )
+				VAR _5derniers =
+					TOPN (
+						5,
+						FILTER ( ALLSELECTED ( DimMatch[match_date], DimMatch[result_code] ), DimMatch[match_date] <= _date ),
+						DimMatch[match_date], DESC
+					)
+				RETURN
+					CONCATENATEX ( _5derniers, DimMatch[result_code], " ", DimMatch[match_date], ASC )
+			displayFolder: 6. Dynamique de saison
+
+		measure 'Titre rapport' = "FC Barcelone · Liga " & SELECTEDVALUE ( DimMatch[season], "2018/19 – 2020/21" )
+			displayFolder: 7. UX
+
+		measure 'Sous-titre joueur' =
+				VAR _j = SELECTEDVALUE ( DimPlayer[player_name], "Tous les joueurs" )
+				RETURN
+					_j & " · " & FORMAT ( [Minutes jouées], "#,0" ) & " min · "
+						& [Matchs disputés] & " matchs"
+			displayFolder: 7. UX
+
+		measure 'Couleur résultat' =
+				SWITCH (
+					SELECTEDVALUE ( DimMatch[result_code] ),
+					"V", "#1A7F37",
+					"N", "#9A6700",
+					"D", "#CF222E"
+				)
+			displayFolder: 7. UX
+
+		measure 'Couleur Buts - xG' = IF ( [Buts - xG] >= 0, "#1A7F37", "#CF222E" )
+			displayFolder: 7. UX
